@@ -1,0 +1,30 @@
+{
+  "deps_info": {
+    "deps_configs": [],
+    "dex_path": "gen/mojo/public/java/system.dex.jar",
+    "is_prebuilt": false,
+    "jar_path": "lib.java/mojo/public/java/system.jar",
+    "java": {
+      "full_classpath": []
+    },
+    "name": "system.build_config",
+    "owned_resources_dirs": [],
+    "owned_resources_zips": [],
+    "path": "gen/mojo/public/java/system.build_config",
+    "requires_android": true,
+    "supports_android": true,
+    "type": "java_library"
+  },
+  "gradle": {
+    "dependent_android_projects": [],
+    "dependent_java_projects": [],
+    "dependent_prebuilt_jars": [],
+    "java_sources_file": "gen/mojo/public/java/system.sources"
+  },
+  "javac": {
+    "classpath": [],
+    "interface_classpath": [],
+    "resource_packages": [],
+    "srcjars": []
+  }
+}

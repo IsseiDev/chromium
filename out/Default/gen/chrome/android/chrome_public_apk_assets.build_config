@@ -1,0 +1,21 @@
+{
+  "deps_info": {
+    "assets": {
+      "disable_compression": true,
+      "sources": [
+        "resources.pak",
+        "chrome_100_percent.pak",
+        "resources.pak"
+      ]
+    },
+    "deps_configs": [
+      "gen/chrome/android/webapk/libs/runtime_library/runtime_library_assets.build_config",
+      "gen/third_party/icu/icu_assets.build_config",
+      "gen/v8/v8_external_startup_data_assets.build_config"
+    ],
+    "name": "chrome_public_apk_assets.build_config",
+    "path": "gen/chrome/android/chrome_public_apk_assets.build_config",
+    "type": "android_assets"
+  },
+  "gradle": {}
+}

@@ -1,0 +1,272 @@
+{
+  "input-strings": [
+    "../../third_party/android_tools/sdk/build-tools/23.0.1/dx", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "gen/components/sync/android/sync_java.dex.jar"
+  ], 
+  "files-md5": "9b8f5a7288b2d76f23c31d8949c557da", 
+  "input-files": [
+    {
+      "path": "lib.java/components/sync/android/sync_java.jar", 
+      "tag": "8f45f3a0c76818efad21cd08ab4c7bf5", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 4245419769
+        }, 
+        {
+          "path": "org/chromium/components/sync/AndroidSyncSettings$1.class", 
+          "tag": 2645440661
+        }, 
+        {
+          "path": "org/chromium/components/sync/AndroidSyncSettings$AndroidSyncSettingsObserver.class", 
+          "tag": 2582420825
+        }, 
+        {
+          "path": "org/chromium/components/sync/AndroidSyncSettings.class", 
+          "tag": 641474928
+        }, 
+        {
+          "path": "org/chromium/components/sync/SystemSyncContentResolverDelegate.class", 
+          "tag": 1576352908
+        }, 
+        {
+          "path": "org/chromium/components/sync/ModelTypeHelper.class", 
+          "tag": 3137328723
+        }, 
+        {
+          "path": "org/chromium/components/sync/ModelType$ModelTypeEnum.class", 
+          "tag": 3092956107
+        }, 
+        {
+          "path": "org/chromium/components/sync/AndroidSyncSettings$AndroidSyncSettingsChangedObserver.class", 
+          "tag": 2859095816
+        }, 
+        {
+          "path": "org/chromium/components/sync/PassphraseType.class", 
+          "tag": 2585643179
+        }, 
+        {
+          "path": "org/chromium/components/sync/StopSource.class", 
+          "tag": 3872158084
+        }, 
+        {
+          "path": "org/chromium/components/sync/ProtocolErrorClientAction.class", 
+          "tag": 656676547
+        }, 
+        {
+          "path": "org/chromium/components/sync/ProtocolErrorClientAction$ProtocolErrorClientActionEnum.class", 
+          "tag": 1014446009
+        }, 
+        {
+          "path": "org/chromium/components/sync/ModelTypeHelper$TestDelegate.class", 
+          "tag": 1830805274
+        }, 
+        {
+          "path": "org/chromium/components/sync/SyncConstants.class", 
+          "tag": 3302838614
+        }, 
+        {
+          "path": "org/chromium/components/sync/StopSource$StopSourceEnum.class", 
+          "tag": 1861389264
+        }, 
+        {
+          "path": "org/chromium/components/sync/PassphraseType$1.class", 
+          "tag": 2660971913
+        }, 
+        {
+          "path": "org/chromium/components/sync/PassphraseType$2.class", 
+          "tag": 2616547996
+        }, 
+        {
+          "path": "org/chromium/components/sync/ModelType.class", 
+          "tag": 2416713243
+        }, 
+        {
+          "path": "org/chromium/components/sync/SyncContentResolverDelegate.class", 
+          "tag": 2303161945
+        }, 
+        {
+          "path": "org/chromium/components/sync/notifier/InvalidationClientNameProvider.class", 
+          "tag": 40342129
+        }, 
+        {
+          "path": "org/chromium/components/sync/notifier/InvalidationPreferences$EditContext.class", 
+          "tag": 2375633907
+        }, 
+        {
+          "path": "org/chromium/components/sync/notifier/InvalidationClientNameGenerator.class", 
+          "tag": 3260837616
+        }, 
+        {
+          "path": "org/chromium/components/sync/notifier/InvalidationIntentProtocol.class", 
+          "tag": 3979743805
+        }, 
+        {
+          "path": "org/chromium/components/sync/notifier/InvalidationPreferences$PrefKeys.class", 
+          "tag": 3720494404
+        }, 
+        {
+          "path": "org/chromium/components/sync/notifier/RandomizedInvalidationClientNameGenerator.class", 
+          "tag": 2059635996
+        }, 
+        {
+          "path": "org/chromium/components/sync/notifier/InvalidationPreferences.class", 
+          "tag": 2463581887
+        }, 
+        {
+          "path": "org/chromium/components/sync/signin/AccountManagerHelper$ConnectionRetry.class", 
+          "tag": 513570075
+        }, 
+        {
+          "path": "org/chromium/components/sync/signin/SystemAccountManagerDelegate$1.class", 
+          "tag": 1832859806
+        }, 
+        {
+          "path": "org/chromium/components/sync/signin/AccountManagerHelper$3.class", 
+          "tag": 3148561436
+        }, 
+        {
+          "path": "org/chromium/components/sync/signin/SystemAccountManagerDelegate$3.class", 
+          "tag": 4234819541
+        }, 
+        {
+          "path": "org/chromium/components/sync/signin/SystemAccountManagerDelegate$5.class", 
+          "tag": 2777871685
+        }, 
+        {
+          "path": "org/chromium/components/sync/signin/SystemAccountManagerDelegate$2.class", 
+          "tag": 2967232213
+        }, 
+        {
+          "path": "org/chromium/components/sync/signin/ChromeSigninController.class", 
+          "tag": 3586231806
+        }, 
+        {
+          "path": "org/chromium/components/sync/signin/AccountManagerHelper.class", 
+          "tag": 307448715
+        }, 
+        {
+          "path": "org/chromium/components/sync/signin/AccountManagerHelper$2.class", 
+          "tag": 1093312777
+        }, 
+        {
+          "path": "org/chromium/components/sync/signin/AccountManagerHelper$4.class", 
+          "tag": 1893296600
+        }, 
+        {
+          "path": "org/chromium/components/sync/signin/AccountManagerHelper$6.class", 
+          "tag": 175989812
+        }, 
+        {
+          "path": "org/chromium/components/sync/signin/SystemAccountManagerDelegate.class", 
+          "tag": 2599859018
+        }, 
+        {
+          "path": "org/chromium/components/sync/signin/AuthException.class", 
+          "tag": 1125630861
+        }, 
+        {
+          "path": "org/chromium/components/sync/signin/AccountManagerDelegate.class", 
+          "tag": 4239662015
+        }, 
+        {
+          "path": "org/chromium/components/sync/signin/AccountManagerHelper$ConnectionRetry$1.class", 
+          "tag": 3739692649
+        }, 
+        {
+          "path": "org/chromium/components/sync/signin/AccountManagerHelper$GetAuthTokenCallback.class", 
+          "tag": 367436993
+        }, 
+        {
+          "path": "org/chromium/components/sync/signin/AccountManagerHelper$5.class", 
+          "tag": 3886232528
+        }, 
+        {
+          "path": "org/chromium/components/sync/signin/AccountManagerHelper$1.class", 
+          "tag": 1715583647
+        }, 
+        {
+          "path": "org/chromium/components/sync/signin/SystemAccountManagerDelegate$4.class", 
+          "tag": 4147289092
+        }, 
+        {
+          "path": "org/chromium/components/sync/signin/AccountManagerHelper$AuthTask.class", 
+          "tag": 3448483117
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/dex.py", 
+      "tag": "f8d244cadb9dfce772ccee702d38d5e5"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "92ad5273ce9088c21a3c300ba323de11"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "62bdbbcfa67e889db3c3e4e870726598"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "ee98faa18e9846f3020f06851f55fac6"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "a5ae0b9a12e459caee036ba2b1d002ea"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "ceb0e94d90c2c33ad7a18790771736f5"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "6e2869f191d6ab4f90b87d3cf4e726dc"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "bca8eaac47a82421752826d8c7c0a66e"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "2c2913af79ec1be5dbd4b597f471e339"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "2171ad124896fb3569ebcc8916b06329"
+}

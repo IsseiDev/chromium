@@ -1,0 +1,11 @@
+{
+  "deps_info": {
+    "deps_configs": [
+      "gen/third_party/leakcanary/leakcanary_noop_java.build_config"
+    ],
+    "name": "leakcanary_java.build_config",
+    "path": "gen/third_party/leakcanary/leakcanary_java.build_config",
+    "type": "group"
+  },
+  "gradle": {}
+}

@@ -1,0 +1,20 @@
+{
+  "deps_info": {
+    "deps_configs": [],
+    "name": "app_restrictions_resources.build_config",
+    "path": "gen/components/policy/app_restrictions_resources.build_config",
+    "resources_dirs": [
+      "gen/chrome/app/policy/android",
+      "gen/chrome/app/policy/android"
+    ],
+    "resources_zip": "gen/components/policy/app_restrictions_resources.resources.zip",
+    "srcjar": "gen/components/policy/app_restrictions_resources.srcjar",
+    "type": "android_resources"
+  },
+  "gradle": {},
+  "resources": {
+    "dependency_zips": [],
+    "extra_package_names": [],
+    "extra_r_text_files": []
+  }
+}

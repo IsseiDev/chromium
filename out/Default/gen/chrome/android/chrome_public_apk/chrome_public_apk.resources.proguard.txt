@@ -1,0 +1,1141 @@
+# view res/layout/design_navigation_item.xml #generated:17
+-keep class android.support.design.internal.NavigationMenuItemView { <init>(...); }
+
+# view res/layout/design_navigation_menu.xml #generated:17
+-keep class android.support.design.internal.NavigationMenuView { <init>(...); }
+
+# view res/layout/design_bottom_sheet_dialog.xml #generated:17
+-keep class android.support.design.widget.CoordinatorLayout { <init>(...); }
+
+# view res/layout/design_layout_snackbar.xml #generated:18
+# view sw600dp-v13/res/layout-sw600dp-v13/design_layout_snackbar.xml #generated:18
+-keep class android.support.design.widget.Snackbar$SnackbarLayout { <init>(...); }
+
+# view res/layout/bookmark_main.xml #generated:13
+# view res/layout/download_main.xml #generated:6
+-keep class android.support.v4.widget.DrawerLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:75
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:39
+-keep class android.support.v4.widget.Space { <init>(...); }
+
+# view res/layout/mr_volume_control.xml #generated:41
+-keep class android.support.v7.app.MediaRouteExpandCollapseButton { <init>(...); }
+
+# view res/layout/mr_controller_volume_item.xml #generated:43
+# view res/layout/mr_volume_control.xml #generated:33
+-keep class android.support.v7.app.MediaRouteVolumeSlider { <init>(...); }
+
+# view res/layout/mr_controller_material_dialog_b.xml #generated:86
+-keep class android.support.v7.app.OverlayListView { <init>(...); }
+
+# view res/layout/abc_action_menu_item_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(...); }
+
+# view res/layout/abc_expanded_menu_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(...); }
+
+# view res/layout/abc_list_menu_item_layout.xml #generated:17
+# view res/layout/abc_popup_menu_item_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:27
+-keep class android.support.v7.widget.ActionBarContainer { <init>(...); }
+
+# view res/layout/abc_action_mode_bar.xml #generated:19
+# view res/layout/abc_screen_toolbar.xml #generated:43
+-keep class android.support.v7.widget.ActionBarContextView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:17
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(...); }
+
+# view res/layout/abc_action_menu_layout.xml #generated:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# view res/layout/abc_activity_chooser_view.xml #generated:19
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# view res/layout/autofill_billing_address_dropdown.xml #generated:12
+# view res/layout/autofill_local_card_editor.xml #generated:54
+# view res/layout/autofill_local_card_editor.xml #generated:70
+# view res/layout/infobar_control_spinner.xml #generated:6
+# view res/layout/payment_request_editor_dropdown.xml #generated:13
+# view v17/res/layout-v17/autofill_billing_address_dropdown.xml #generated:17
+# view v17/res/layout-v17/autofill_local_card_editor.xml #generated:77
+# view v17/res/layout-v17/autofill_local_card_editor.xml #generated:92
+# view v17/res/layout-v17/payment_request_editor_dropdown.xml #generated:21
+-keep class android.support.v7.widget.AppCompatSpinner { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:18
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(...); }
+
+# view res/layout/abc_screen_content_include.xml #generated:19
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:48
+-keep class android.support.v7.widget.DialogTitle { <init>(...); }
+
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:23
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(...); }
+
+# view res/layout/abc_dialog_title_material.xml #generated:22
+# view res/layout/abc_screen_simple.xml #generated:17
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
+
+# view res/layout/download_main.xml #generated:35
+# view sw720dp-v13/res/layout-sw720dp-v13/download_main.xml #generated:54
+-keep class android.support.v7.widget.RecyclerView { <init>(...); }
+
+# view res/layout/abc_search_view.xml #generated:75
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# view res/layout/fre_data_reduction_proxy.xml #generated:43
+# view res/layout/infobar_control_toggle.xml #generated:17
+# view res/layout/preference_switch.xml #generated:6
+# view v17/res/layout-v17/fre_data_reduction_proxy.xml #generated:68
+# view v17/res/layout-v17/infobar_control_toggle.xml #generated:31
+-keep class android.support.v7.widget.SwitchCompat { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:36
+# view res/layout/bookmark_add_edit_folder_activity.xml #generated:9
+# view res/layout/bookmark_edit.xml #generated:11
+# view res/layout/bookmark_folder_select_activity.xml #generated:12
+# view res/layout/bookmark_search_core.xml #generated:8
+# view v17/res/layout-v17/bookmark_add_edit_folder_activity.xml #generated:14
+# view v17/res/layout-v17/bookmark_edit.xml #generated:13
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# view res/layout/abc_screen_simple.xml #generated:25
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:32
+-keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
+
+# view res/layout/search_engine.xml #generated:9
+# view v17/res/layout-v17/search_engine.xml #generated:15
+-keep class android.widget.RadioButton { <init>(...); }
+
+# view AndroidManifest.xml #generated:962
+-keep class com.google.android.apps.chrome.appwidget.bookmarks.BookmarkThumbnailWidgetProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:979
+-keep class com.google.android.gms.gcm.GcmReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:1030
+-keep class com.google.ipc.invalidation.external.client.contrib.AndroidListener$AlarmReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:1028
+-keep class com.google.ipc.invalidation.ticl.android2.AndroidInternalScheduler$AlarmReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:1024
+-keep class com.google.ipc.invalidation.ticl.android2.TiclService { <init>(...); }
+
+# view AndroidManifest.xml #generated:997
+-keep class com.google.ipc.invalidation.ticl.android2.channel.AndroidInstanceIDListenerService { <init>(...); }
+
+# view AndroidManifest.xml #generated:1026
+-keep class com.google.ipc.invalidation.ticl.android2.channel.AndroidMessageSenderService { <init>(...); }
+
+# view AndroidManifest.xml #generated:989
+-keep class com.google.ipc.invalidation.ticl.android2.channel.GcmRegistrationTaskService { <init>(...); }
+
+# view AndroidManifest.xml #generated:1249
+-keep class org.chromium.base.PowerStatusReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:847
+-keep class org.chromium.chrome.browser.BrowserRestartActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:94
+-keep class org.chromium.chrome.browser.ChromeApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:1045
+-keep class org.chromium.chrome.browser.ChromeBackgroundService { <init>(...); }
+
+# view AndroidManifest.xml #generated:94
+-keep class org.chromium.chrome.browser.ChromeBackupAgent { <init>(...); }
+
+# view AndroidManifest.xml #generated:411
+-keep class org.chromium.chrome.browser.ChromeTabbedActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:419
+-keep class org.chromium.chrome.browser.ChromeTabbedActivity2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:471
+-keep class org.chromium.chrome.browser.EmbedContentViewActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:227
+-keep class org.chromium.chrome.browser.LauncherShortcutActivity { <init>(...); }
+
+# view res/layout/menu_item.xml #generated:14
+# view res/layout/update_menu_item.xml #generated:26
+# view v17/res/layout-v17/menu_item.xml #generated:22
+# view v17/res/layout-v17/update_menu_item.xml #generated:38
+-keep class org.chromium.chrome.browser.appmenu.AppMenuItemIcon { <init>(...); }
+
+# view res/layout/bookmark_main_content.xml #generated:45
+-keep class org.chromium.chrome.browser.bookmarks.BookmarkActionBar { <init>(...); }
+
+# view AndroidManifest.xml #generated:476
+-keep class org.chromium.chrome.browser.bookmarks.BookmarkActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:481
+-keep class org.chromium.chrome.browser.bookmarks.BookmarkAddActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:496
+-keep class org.chromium.chrome.browser.bookmarks.BookmarkAddEditFolderActivity { <init>(...); }
+
+# view res/layout/bookmark_main_content.xml #generated:6
+-keep class org.chromium.chrome.browser.bookmarks.BookmarkContentView { <init>(...); }
+
+# view res/layout/bookmark_drawer_item.xml #generated:6
+-keep class org.chromium.chrome.browser.bookmarks.BookmarkDrawerListItemView { <init>(...); }
+
+# view res/layout/bookmark_main.xml #generated:20
+# view sw720dp-v13/res/layout-sw720dp-v13/bookmark_main.xml #generated:11
+-keep class org.chromium.chrome.browser.bookmarks.BookmarkDrawerListView { <init>(...); }
+
+# view AndroidManifest.xml #generated:490
+-keep class org.chromium.chrome.browser.bookmarks.BookmarkEditActivity { <init>(...); }
+
+# view res/layout/bookmark_folder_row.xml #generated:8
+-keep class org.chromium.chrome.browser.bookmarks.BookmarkFolderRow { <init>(...); }
+
+# view AndroidManifest.xml #generated:500
+-keep class org.chromium.chrome.browser.bookmarks.BookmarkFolderSelectActivity { <init>(...); }
+
+# view res/layout/bookmark_item_row.xml #generated:8
+-keep class org.chromium.chrome.browser.bookmarks.BookmarkItemRow { <init>(...); }
+
+# view res/layout/bookmark_main_content.xml #generated:12
+-keep class org.chromium.chrome.browser.bookmarks.BookmarkRecyclerView { <init>(...); }
+
+# view res/layout/bookmark_search_row.xml #generated:7
+# view v17/res/layout-v17/bookmark_search_row.xml #generated:8
+-keep class org.chromium.chrome.browser.bookmarks.BookmarkSearchRow { <init>(...); }
+
+# view res/layout/bookmark_search.xml #generated:6
+-keep class org.chromium.chrome.browser.bookmarks.BookmarkSearchView { <init>(...); }
+
+# view res/layout/bookmark_search_core.xml #generated:32
+-keep class org.chromium.chrome.browser.bookmarks.BookmarkSearchView$HistoryResultSwitcher { <init>(...); }
+
+# view AndroidManifest.xml #generated:975
+-keep class org.chromium.chrome.browser.bookmarkswidget.BookmarkWidgetProxy { <init>(...); }
+
+# view AndroidManifest.xml #generated:972
+-keep class org.chromium.chrome.browser.bookmarkswidget.BookmarkWidgetService { <init>(...); }
+
+# view res/layout/main.xml #generated:12
+-keep class org.chromium.chrome.browser.compositor.CompositorViewHolder { <init>(...); }
+
+# view AndroidManifest.xml #generated:1063
+-keep class org.chromium.chrome.browser.crash.LogcatExtractionService { <init>(...); }
+
+# view AndroidManifest.xml #generated:1065
+-keep class org.chromium.chrome.browser.crash.MinidumpPreparationService { <init>(...); }
+
+# view AndroidManifest.xml #generated:1067
+-keep class org.chromium.chrome.browser.crash.MinidumpUploadService { <init>(...); }
+
+# view AndroidManifest.xml #generated:284
+-keep class org.chromium.chrome.browser.customtabs.CustomTabActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:1056
+-keep class org.chromium.chrome.browser.customtabs.CustomTabsConnectionService { <init>(...); }
+
+# view AndroidManifest.xml #generated:291
+-keep class org.chromium.chrome.browser.customtabs.SeparateTaskCustomTabActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:299
+-keep class org.chromium.chrome.browser.customtabs.SeparateTaskCustomTabActivity0 { <init>(...); }
+
+# view AndroidManifest.xml #generated:310
+-keep class org.chromium.chrome.browser.customtabs.SeparateTaskCustomTabActivity1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:321
+-keep class org.chromium.chrome.browser.customtabs.SeparateTaskCustomTabActivity2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:332
+-keep class org.chromium.chrome.browser.customtabs.SeparateTaskCustomTabActivity3 { <init>(...); }
+
+# view AndroidManifest.xml #generated:343
+-keep class org.chromium.chrome.browser.customtabs.SeparateTaskCustomTabActivity4 { <init>(...); }
+
+# view AndroidManifest.xml #generated:354
+-keep class org.chromium.chrome.browser.customtabs.SeparateTaskCustomTabActivity5 { <init>(...); }
+
+# view AndroidManifest.xml #generated:365
+-keep class org.chromium.chrome.browser.customtabs.SeparateTaskCustomTabActivity6 { <init>(...); }
+
+# view AndroidManifest.xml #generated:376
+-keep class org.chromium.chrome.browser.customtabs.SeparateTaskCustomTabActivity7 { <init>(...); }
+
+# view AndroidManifest.xml #generated:387
+-keep class org.chromium.chrome.browser.customtabs.SeparateTaskCustomTabActivity8 { <init>(...); }
+
+# view AndroidManifest.xml #generated:398
+-keep class org.chromium.chrome.browser.customtabs.SeparateTaskCustomTabActivity9 { <init>(...); }
+
+# view AndroidManifest.xml #generated:126
+-keep class org.chromium.chrome.browser.document.ChromeLauncherActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:839
+-keep class org.chromium.chrome.browser.document.CipherKeyActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:255
+-keep class org.chromium.chrome.browser.document.DocumentActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:268
+-keep class org.chromium.chrome.browser.document.IncognitoDocumentActivity { <init>(...); }
+
+# view res/layout/distilled_page_prefs_view.xml #generated:7
+# view v17/res/layout-v17/distilled_page_prefs_view.xml #generated:8
+-keep class org.chromium.chrome.browser.dom_distiller.DistilledPagePrefsView { <init>(...); }
+
+# view AndroidManifest.xml #generated:508
+-keep class org.chromium.chrome.browser.download.DownloadActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:1242
+-keep class org.chromium.chrome.browser.download.DownloadBroadcastReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:940
+-keep class org.chromium.chrome.browser.download.DownloadNotificationService { <init>(...); }
+
+# view res/layout/download_item_view.xml #generated:6
+# view v17/res/layout-v17/download_item_view.xml #generated:7
+-keep class org.chromium.chrome.browser.download.ui.DownloadItemView { <init>(...); }
+
+# view res/layout/download_main.xml #generated:19
+# view sw720dp-v13/res/layout-sw720dp-v13/download_main.xml #generated:38
+-keep class org.chromium.chrome.browser.download.ui.DownloadManagerToolbar { <init>(...); }
+
+# view AndroidManifest.xml #generated:447
+-keep class org.chromium.chrome.browser.firstrun.FirstRunActivity { <init>(...); }
+
+# view res/layout/fre_data_reduction_proxy.xml #generated:7
+# view res/layout/fre_tosanduma.xml #generated:7
+# view v17/res/layout-v17/fre_data_reduction_proxy.xml #generated:7
+# view v17/res/layout-v17/fre_tosanduma.xml #generated:7
+-keep class org.chromium.chrome.browser.firstrun.FirstRunView { <init>(...); }
+
+# view AndroidManifest.xml #generated:440
+-keep class org.chromium.chrome.browser.firstrun.LightweightFirstRunActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:954
+-keep class org.chromium.chrome.browser.firstrun.ToSAckedReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:1072
+-keep class org.chromium.chrome.browser.incognito.IncognitoNotificationService { <init>(...); }
+
+# view AndroidManifest.xml #generated:923
+-keep class org.chromium.chrome.browser.invalidation.ChromeBrowserSyncAdapterService { <init>(...); }
+
+# view AndroidManifest.xml #generated:1256
+-keep class org.chromium.chrome.browser.media.MediaCaptureNotificationService { <init>(...); }
+
+# view AndroidManifest.xml #generated:827
+-keep class org.chromium.chrome.browser.media.remote.ExpandedControllerActivity { <init>(...); }
+
+# view res/layout/cast_controller_media_route_button.xml #generated:6
+-keep class org.chromium.chrome.browser.media.remote.FullscreenMediaRouteButton { <init>(...); }
+
+# view AndroidManifest.xml #generated:1270
+-keep class org.chromium.chrome.browser.media.ui.MediaNotificationManager$CastListenerService { <init>(...); }
+
+# view AndroidManifest.xml #generated:1288
+-keep class org.chromium.chrome.browser.media.ui.MediaNotificationManager$CastMediaButtonReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:1258
+-keep class org.chromium.chrome.browser.media.ui.MediaNotificationManager$PlaybackListenerService { <init>(...); }
+
+# view AndroidManifest.xml #generated:1278
+-keep class org.chromium.chrome.browser.media.ui.MediaNotificationManager$PlaybackMediaButtonReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:1264
+-keep class org.chromium.chrome.browser.media.ui.MediaNotificationManager$PresentationListenerService { <init>(...); }
+
+# view AndroidManifest.xml #generated:1283
+-keep class org.chromium.chrome.browser.media.ui.MediaNotificationManager$PresentationMediaButtonReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:428
+-keep class org.chromium.chrome.browser.multiwindow.MultiInstanceChromeTabbedActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:1034
+-keep class org.chromium.chrome.browser.notifications.NotificationService { <init>(...); }
+
+# view AndroidManifest.xml #generated:1036
+-keep class org.chromium.chrome.browser.notifications.NotificationService$Receiver { <init>(...); }
+
+# view res/layout/new_tab_page_incognito.xml #generated:5
+# view v17/res/layout-v17/new_tab_page_incognito.xml #generated:6
+-keep class org.chromium.chrome.browser.ntp.IncognitoNewTabPageView { <init>(...); }
+
+# view res/layout/new_tab_page_layout.xml #generated:21
+# view v17/res/layout-v17/new_tab_page_layout.xml #generated:28
+-keep class org.chromium.chrome.browser.ntp.LogoView { <init>(...); }
+
+# view res/layout/most_visited_item.xml #generated:6
+# view v17/res/layout-v17/most_visited_item.xml #generated:7
+-keep class org.chromium.chrome.browser.ntp.MostVisitedItemView { <init>(...); }
+
+# view res/layout/new_tab_page_layout.xml #generated:51
+# view v17/res/layout-v17/new_tab_page_layout.xml #generated:82
+-keep class org.chromium.chrome.browser.ntp.MostVisitedLayout { <init>(...); }
+
+# view res/layout/recent_tabs_page.xml #generated:13
+-keep class org.chromium.chrome.browser.ntp.NativePageRootFrameLayout { <init>(...); }
+
+# view res/layout/new_tab_page_layout.xml #generated:5
+# view v17/res/layout-v17/new_tab_page_layout.xml #generated:5
+-keep class org.chromium.chrome.browser.ntp.NewTabPageLayout { <init>(...); }
+
+# view res/layout/new_tab_page_incognito.xml #generated:9
+# view res/layout/new_tab_page_scroll_view.xml #generated:6
+# view v17/res/layout-v17/new_tab_page_incognito.xml #generated:14
+-keep class org.chromium.chrome.browser.ntp.NewTabPageScrollView { <init>(...); }
+
+# view res/layout/new_tab_page_view.xml #generated:20
+-keep class org.chromium.chrome.browser.ntp.NewTabPageToolbar { <init>(...); }
+
+# view res/layout/new_tab_page_view.xml #generated:6
+-keep class org.chromium.chrome.browser.ntp.NewTabPageView { <init>(...); }
+
+# view res/layout/recent_tabs_page.xml #generated:21
+-keep class org.chromium.chrome.browser.ntp.RecentTabsExpandableListView { <init>(...); }
+
+# view res/layout/recent_tabs_group_item.xml #generated:5
+# view v17/res/layout-v17/recent_tabs_group_item.xml #generated:6
+-keep class org.chromium.chrome.browser.ntp.RecentTabsGroupView { <init>(...); }
+
+# view res/layout/new_tab_page_recycler_view.xml #generated:6
+-keep class org.chromium.chrome.browser.ntp.cards.NewTabPageRecyclerView { <init>(...); }
+
+# view res/layout/new_tab_page_progress_indicator.xml #generated:11
+-keep class org.chromium.chrome.browser.ntp.cards.ProgressIndicatorView { <init>(...); }
+
+# view AndroidManifest.xml #generated:1070
+-keep class org.chromium.chrome.browser.omaha.OmahaClient { <init>(...); }
+
+# view res/layout/toolbar.xml #generated:23
+# view v17/res/layout-v17/toolbar.xml #generated:40
+-keep class org.chromium.chrome.browser.omnibox.LocationBarPhone { <init>(...); }
+
+# view sw600dp-v13/res/layout-sw600dp-v13/toolbar.xml #generated:31
+# view sw600dp-v17/res/layout-sw600dp-v17/toolbar.xml #generated:47
+-keep class org.chromium.chrome.browser.omnibox.LocationBarTablet { <init>(...); }
+
+# view res/layout/custom_tabs_toolbar.xml #generated:23
+# view res/layout/url_bar.xml #generated:6
+# view v17/res/layout-v17/custom_tabs_toolbar.xml #generated:48
+-keep class org.chromium.chrome.browser.omnibox.UrlBar { <init>(...); }
+
+# view res/layout/website_settings.xml #generated:24
+# view v17/res/layout-v17/website_settings.xml #generated:39
+-keep class org.chromium.chrome.browser.pageinfo.WebsiteSettingsPopup$ElidedUrlTextView { <init>(...); }
+
+# view res/layout/payment_request_editor.xml #generated:13
+# view v17/res/layout-v17/payment_request_editor.xml #generated:12
+-keep class org.chromium.chrome.browser.payments.ui.EditorDialogToolbar { <init>(...); }
+
+# view res/layout/autofill_editor_base.xml #generated:9
+# view res/layout/payment_request.xml #generated:20
+# view res/layout/payment_request_editor.xml #generated:20
+# view v17/res/layout-v17/payment_request_editor.xml #generated:22
+-keep class org.chromium.chrome.browser.payments.ui.FadingEdgeScrollView { <init>(...); }
+
+# view res/layout/payment_request_error.xml #generated:10
+# view v17/res/layout-v17/payment_request_error.xml #generated:11
+-keep class org.chromium.chrome.browser.payments.ui.PaymentRequestUiErrorView { <init>(...); }
+
+# view AndroidManifest.xml #generated:891
+-keep class org.chromium.chrome.browser.physicalweb.ClearNotificationAlarmReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:874
+-keep class org.chromium.chrome.browser.physicalweb.ListUrlsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:896
+-keep class org.chromium.chrome.browser.physicalweb.NearbyMessageIntentService { <init>(...); }
+
+# view AndroidManifest.xml #generated:883
+-keep class org.chromium.chrome.browser.physicalweb.PhysicalWebOptInActivity { <init>(...); }
+
+# view res/layout/physical_web_list_urls_activity.xml #generated:5
+# view v17/res/layout-v17/physical_web_list_urls_activity.xml #generated:6
+-keep class org.chromium.chrome.browser.physicalweb.SwipeRefreshWidget { <init>(...); }
+
+# view res/xml/clear_browsing_data_preferences.xml #generated:41
+# view res/xml/physical_web_preferences.xml #generated:23
+# view res/xml/single_website_preferences.xml #generated:61
+# view res/xml/translate_preferences.xml #generated:19
+-keep class org.chromium.chrome.browser.preferences.ButtonPreference { <init>(...); }
+
+# view res/xml/privacy_preferences.xml #generated:12
+# view res/xml/privacy_preferences.xml #generated:17
+# view res/xml/privacy_preferences.xml #generated:21
+# view res/xml/privacy_preferences.xml #generated:25
+# view res/xml/privacy_preferences.xml #generated:38
+# view res/xml/privacy_preferences.xml #generated:7
+# view res/xml/sync_customization_preferences.xml #generated:28
+# view res/xml/sync_customization_preferences.xml #generated:32
+# view res/xml/sync_customization_preferences.xml #generated:36
+# view res/xml/sync_customization_preferences.xml #generated:40
+# view res/xml/sync_customization_preferences.xml #generated:44
+# view res/xml/sync_customization_preferences.xml #generated:48
+# view res/xml/sync_customization_preferences.xml #generated:52
+# view res/xml/website_preferences.xml #generated:17
+# view res/xml/website_preferences.xml #generated:23
+-keep class org.chromium.chrome.browser.preferences.ChromeBaseCheckBoxPreference { <init>(...); }
+
+# view res/xml/single_website_preferences.xml #generated:34
+# view res/xml/single_website_preferences.xml #generated:36
+# view res/xml/single_website_preferences.xml #generated:38
+# view res/xml/single_website_preferences.xml #generated:40
+# view res/xml/single_website_preferences.xml #generated:42
+# view res/xml/single_website_preferences.xml #generated:44
+# view res/xml/single_website_preferences.xml #generated:46
+# view res/xml/single_website_preferences.xml #generated:48
+# view res/xml/single_website_preferences.xml #generated:50
+# view res/xml/single_website_preferences.xml #generated:52
+# view res/xml/single_website_preferences.xml #generated:54
+# view res/xml/single_website_preferences.xml #generated:56
+# view res/xml/single_website_preferences.xml #generated:58
+-keep class org.chromium.chrome.browser.preferences.ChromeBaseListPreference { <init>(...); }
+
+# view res/xml/account_management_preferences.xml #generated:17
+# view res/xml/main_preferences.xml #generated:17
+# view res/xml/main_preferences.xml #generated:21
+# view res/xml/main_preferences.xml #generated:42
+# view res/xml/single_website_preferences.xml #generated:7
+# view res/xml/single_website_preferences.xml #generated:9
+-keep class org.chromium.chrome.browser.preferences.ChromeBasePreference { <init>(...); }
+
+# view res/xml/autofill_preferences.xml #generated:8
+# view res/xml/contextual_search_preferences.xml #generated:10
+# view res/xml/do_not_track_preferences.xml #generated:10
+# view res/xml/homepage_preferences.xml #generated:10
+# view res/xml/physical_web_preferences.xml #generated:10
+# view res/xml/sync_customization_preferences.xml #generated:13
+# view res/xml/sync_customization_preferences.xml #generated:24
+# view res/xml/translate_preferences.xml #generated:10
+# view res/xml/usage_and_crash_reports_preferences.xml #generated:10
+# view res/xml/website_preferences.xml #generated:12
+-keep class org.chromium.chrome.browser.preferences.ChromeSwitchPreference { <init>(...); }
+
+# view res/xml/clear_browsing_data_preferences.xml #generated:15
+# view res/xml/clear_browsing_data_preferences.xml #generated:20
+# view res/xml/clear_browsing_data_preferences.xml #generated:26
+# view res/xml/clear_browsing_data_preferences.xml #generated:31
+# view res/xml/clear_browsing_data_preferences.xml #generated:36
+-keep class org.chromium.chrome.browser.preferences.ClearBrowsingDataCheckBoxPreference { <init>(...); }
+
+# view res/xml/website_preferences.xml #generated:34
+# view res/xml/website_preferences.xml #generated:36
+-keep class org.chromium.chrome.browser.preferences.ExpandablePreferenceGroup { <init>(...); }
+
+# view res/xml/legal_information_preferences.xml #generated:13
+# view res/xml/legal_information_preferences.xml #generated:17
+# view res/xml/legal_information_preferences.xml #generated:9
+-keep class org.chromium.chrome.browser.preferences.HyperlinkPreference { <init>(...); }
+
+# view res/xml/data_reduction_preferences_off.xml #generated:15
+# view res/xml/physical_web_preferences.xml #generated:19
+# view res/xml/usage_and_crash_reports_preferences.xml #generated:19
+# view res/xml/website_preferences.xml #generated:29
+-keep class org.chromium.chrome.browser.preferences.LearnMorePreference { <init>(...); }
+
+# view res/xml/autofill_preferences.xml #generated:13
+# view res/xml/autofill_preferences.xml #generated:21
+-keep class org.chromium.chrome.browser.preferences.PreferenceCategoryWithButton { <init>(...); }
+
+# view AndroidManifest.xml #generated:459
+-keep class org.chromium.chrome.browser.preferences.Preferences { <init>(...); }
+
+# view res/xml/main_preferences.xml #generated:14
+-keep class org.chromium.chrome.browser.preferences.SearchEnginePreference { <init>(...); }
+
+# view res/xml/accessibility_preferences.xml #generated:14
+-keep class org.chromium.chrome.browser.preferences.SeekBarLinkedCheckBoxPreference { <init>(...); }
+
+# view res/xml/main_preferences.xml #generated:8
+-keep class org.chromium.chrome.browser.preferences.SignInPreference { <init>(...); }
+
+# view res/xml/clear_browsing_data_preferences.xml #generated:10
+-keep class org.chromium.chrome.browser.preferences.SpinnerPreference { <init>(...); }
+
+# view res/xml/sync_customization_preferences.xml #generated:8
+-keep class org.chromium.chrome.browser.preferences.SyncErrorCardPreference { <init>(...); }
+
+# view res/xml/account_management_preferences.xml #generated:38
+-keep class org.chromium.chrome.browser.preferences.SyncPreference { <init>(...); }
+
+# view res/xml/sync_customization_preferences.xml #generated:18
+-keep class org.chromium.chrome.browser.preferences.SyncedAccountPreference { <init>(...); }
+
+# view res/xml/autofill_server_profile_preferences.xml #generated:12
+-keep class org.chromium.chrome.browser.preferences.TextAndButtonPreference { <init>(...); }
+
+# view res/xml/contextual_search_preferences.xml #generated:16
+# view res/xml/data_reduction_preferences_off.xml #generated:11
+# view res/xml/data_reduction_preferences_off.xml #generated:13
+# view res/xml/data_reduction_preferences_off.xml #generated:9
+# view res/xml/do_not_track_preferences.xml #generated:16
+# view res/xml/physical_web_preferences.xml #generated:16
+# view res/xml/single_website_preferences.xml #generated:17
+# view res/xml/translate_preferences.xml #generated:16
+# view res/xml/usage_and_crash_reports_preferences.xml #generated:16
+-keep class org.chromium.chrome.browser.preferences.TextMessagePreference { <init>(...); }
+
+# view res/xml/clear_browsing_data_preferences.xml #generated:47
+# view res/xml/clear_browsing_data_preferences.xml #generated:53
+-keep class org.chromium.chrome.browser.preferences.TextMessageWithLinkAndIconPreference { <init>(...); }
+
+# view res/xml/accessibility_preferences.xml #generated:9
+-keep class org.chromium.chrome.browser.preferences.TextScalePreference { <init>(...); }
+
+# view res/layout/data_reduction_promo_screen.xml #generated:5
+# view v17/res/layout-v17/data_reduction_promo_screen.xml #generated:6
+-keep class org.chromium.chrome.browser.preferences.datareduction.DataReductionPromoView { <init>(...); }
+
+# view res/xml/data_reduction_preferences.xml #generated:8
+-keep class org.chromium.chrome.browser.preferences.datareduction.DataReductionStatsPreference { <init>(...); }
+
+# view res/xml/privacy_preferences.xml #generated:32
+-keep class org.chromium.chrome.browser.preferences.privacy.CrashDumpUploadPreference { <init>(...); }
+
+# view res/xml/single_website_preferences.xml #generated:22
+-keep class org.chromium.chrome.browser.preferences.website.ClearWebsiteStorage { <init>(...); }
+
+# view AndroidManifest.xml #generated:465
+-keep class org.chromium.chrome.browser.preferences.website.ManageSpaceActivity { <init>(...); }
+
+# view res/xml/site_settings_preferences.xml #generated:15
+# view res/xml/site_settings_preferences.xml #generated:19
+# view res/xml/site_settings_preferences.xml #generated:23
+# view res/xml/site_settings_preferences.xml #generated:27
+# view res/xml/site_settings_preferences.xml #generated:31
+# view res/xml/site_settings_preferences.xml #generated:35
+# view res/xml/site_settings_preferences.xml #generated:39
+# view res/xml/site_settings_preferences.xml #generated:43
+# view res/xml/site_settings_preferences.xml #generated:47
+# view res/xml/site_settings_preferences.xml #generated:51
+# view res/xml/site_settings_preferences.xml #generated:55
+# view res/xml/site_settings_preferences.xml #generated:59
+# view res/xml/site_settings_preferences.xml #generated:72
+# view res/xml/site_settings_preferences.xml #generated:78
+# view res/xml/site_settings_preferences.xml #generated:9
+-keep class org.chromium.chrome.browser.preferences.website.SiteSettingsPreference { <init>(...); }
+
+# view AndroidManifest.xml #generated:1053
+-keep class org.chromium.chrome.browser.prerender.ChromePrerenderService { <init>(...); }
+
+# view AndroidManifest.xml #generated:856
+-keep class org.chromium.chrome.browser.printing.PrintShareActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:900
+-keep class org.chromium.chrome.browser.provider.ChromeBrowserProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:933
+-keep class org.chromium.chrome.browser.services.AccountsChangedReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:1004
+-keep class org.chromium.chrome.browser.services.gcm.ChromeGcmListenerService { <init>(...); }
+
+# view AndroidManifest.xml #generated:1012
+-keep class org.chromium.chrome.browser.services.gcm.InvalidationGcmUpstreamSender { <init>(...); }
+
+# view AndroidManifest.xml #generated:455
+-keep class org.chromium.chrome.browser.signin.AccountSigninActivity { <init>(...); }
+
+# view res/layout/account_signin_view.xml #generated:18
+# view v17/res/layout-v17/account_signin_view.xml #generated:20
+-keep class org.chromium.chrome.browser.signin.AccountSigninChooseView { <init>(...); }
+
+# view res/layout/account_signin_view.xml #generated:50
+# view v17/res/layout-v17/account_signin_view.xml #generated:67
+-keep class org.chromium.chrome.browser.signin.AccountSigninConfirmationView { <init>(...); }
+
+# view res/layout/account_signin_view.xml #generated:7
+# view v17/res/layout-v17/account_signin_view.xml #generated:7
+-keep class org.chromium.chrome.browser.signin.AccountSigninView { <init>(...); }
+
+# view res/layout/signin_and_sync_view.xml #generated:5
+-keep class org.chromium.chrome.browser.signin.SigninAndSyncView { <init>(...); }
+
+# view res/layout/snackbar.xml #generated:13
+# view v17/res/layout-v17/snackbar.xml #generated:24
+-keep class org.chromium.chrome.browser.snackbar.TemplatePreservingTextView { <init>(...); }
+
+# view AndroidManifest.xml #generated:916
+-keep class org.chromium.chrome.browser.superviseduser.SupervisedUserContentProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:436
+-keep class org.chromium.chrome.browser.sync.ui.PassphraseActivity { <init>(...); }
+
+# view res/layout/sad_tab.xml #generated:8
+# view v17/res/layout-v17/sad_tab.xml #generated:9
+-keep class org.chromium.chrome.browser.tab.SadTabView { <init>(...); }
+
+# view res/layout/custom_tabs_toolbar.xml #generated:5
+# view v17/res/layout-v17/custom_tabs_toolbar.xml #generated:6
+-keep class org.chromium.chrome.browser.toolbar.CustomTabToolbar { <init>(...); }
+
+# view res/layout/custom_tabs_toolbar.xml #generated:17
+# view v17/res/layout-v17/custom_tabs_toolbar.xml #generated:28
+-keep class org.chromium.chrome.browser.toolbar.CustomTabToolbar$InterceptTouchLayout { <init>(...); }
+
+# view res/layout/toolbar.xml #generated:19
+# view sw600dp-v13/res/layout-sw600dp-v13/toolbar.xml #generated:15
+# view sw600dp-v17/res/layout-sw600dp-v17/toolbar.xml #generated:22
+# view v17/res/layout-v17/toolbar.xml #generated:33
+-keep class org.chromium.chrome.browser.toolbar.HomePageButton { <init>(...); }
+
+# view res/layout/control_container.xml #generated:5
+# view res/layout/custom_tabs_control_container.xml #generated:5
+# view v17/res/layout-v17/control_container.xml #generated:5
+# view v17/res/layout-v17/custom_tabs_control_container.xml #generated:5
+-keep class org.chromium.chrome.browser.toolbar.ToolbarControlContainer { <init>(...); }
+
+# view res/layout/control_container.xml #generated:8
+# view res/layout/custom_tabs_control_container.xml #generated:8
+# view v17/res/layout-v17/control_container.xml #generated:10
+# view v17/res/layout-v17/custom_tabs_control_container.xml #generated:10
+-keep class org.chromium.chrome.browser.toolbar.ToolbarControlContainer$ToolbarViewResourceFrameLayout { <init>(...); }
+
+# view res/layout/toolbar.xml #generated:7
+# view v17/res/layout-v17/toolbar.xml #generated:9
+-keep class org.chromium.chrome.browser.toolbar.ToolbarPhone { <init>(...); }
+
+# view sw600dp-v13/res/layout-sw600dp-v13/toolbar.xml #generated:7
+# view sw600dp-v17/res/layout-sw600dp-v17/toolbar.xml #generated:9
+-keep class org.chromium.chrome.browser.toolbar.ToolbarTablet { <init>(...); }
+
+# view AndroidManifest.xml #generated:247
+-keep class org.chromium.chrome.browser.upgrade.PackageReplacedBroadcastReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:234
+-keep class org.chromium.chrome.browser.upgrade.UpgradeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:245
+-keep class org.chromium.chrome.browser.upgrade.UpgradeIntentService { <init>(...); }
+
+# view AndroidManifest.xml #generated:908
+-keep class org.chromium.chrome.browser.util.CompatibilityFileProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:706
+-keep class org.chromium.chrome.browser.webapps.WebApkActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:716
+-keep class org.chromium.chrome.browser.webapps.WebApkActivity0 { <init>(...); }
+
+# view AndroidManifest.xml #generated:727
+-keep class org.chromium.chrome.browser.webapps.WebApkActivity1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:738
+-keep class org.chromium.chrome.browser.webapps.WebApkActivity2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:749
+-keep class org.chromium.chrome.browser.webapps.WebApkActivity3 { <init>(...); }
+
+# view AndroidManifest.xml #generated:760
+-keep class org.chromium.chrome.browser.webapps.WebApkActivity4 { <init>(...); }
+
+# view AndroidManifest.xml #generated:771
+-keep class org.chromium.chrome.browser.webapps.WebApkActivity5 { <init>(...); }
+
+# view AndroidManifest.xml #generated:782
+-keep class org.chromium.chrome.browser.webapps.WebApkActivity6 { <init>(...); }
+
+# view AndroidManifest.xml #generated:793
+-keep class org.chromium.chrome.browser.webapps.WebApkActivity7 { <init>(...); }
+
+# view AndroidManifest.xml #generated:804
+-keep class org.chromium.chrome.browser.webapps.WebApkActivity8 { <init>(...); }
+
+# view AndroidManifest.xml #generated:815
+-keep class org.chromium.chrome.browser.webapps.WebApkActivity9 { <init>(...); }
+
+# view AndroidManifest.xml #generated:532
+-keep class org.chromium.chrome.browser.webapps.WebappActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:545
+-keep class org.chromium.chrome.browser.webapps.WebappActivity0 { <init>(...); }
+
+# view AndroidManifest.xml #generated:561
+-keep class org.chromium.chrome.browser.webapps.WebappActivity1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:577
+-keep class org.chromium.chrome.browser.webapps.WebappActivity2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:593
+-keep class org.chromium.chrome.browser.webapps.WebappActivity3 { <init>(...); }
+
+# view AndroidManifest.xml #generated:609
+-keep class org.chromium.chrome.browser.webapps.WebappActivity4 { <init>(...); }
+
+# view AndroidManifest.xml #generated:625
+-keep class org.chromium.chrome.browser.webapps.WebappActivity5 { <init>(...); }
+
+# view AndroidManifest.xml #generated:641
+-keep class org.chromium.chrome.browser.webapps.WebappActivity6 { <init>(...); }
+
+# view AndroidManifest.xml #generated:657
+-keep class org.chromium.chrome.browser.webapps.WebappActivity7 { <init>(...); }
+
+# view AndroidManifest.xml #generated:673
+-keep class org.chromium.chrome.browser.webapps.WebappActivity8 { <init>(...); }
+
+# view AndroidManifest.xml #generated:689
+-keep class org.chromium.chrome.browser.webapps.WebappActivity9 { <init>(...); }
+
+# view res/layout/webapp_control_container.xml #generated:6
+-keep class org.chromium.chrome.browser.webapps.WebappControlContainer { <init>(...); }
+
+# view AndroidManifest.xml #generated:520
+-keep class org.chromium.chrome.browser.webapps.WebappLauncherActivity { <init>(...); }
+
+# view res/layout/webapp_control_container.xml #generated:11
+-keep class org.chromium.chrome.browser.webapps.WebappUrlBar { <init>(...); }
+
+# view res/layout/add_site_dialog.xml #generated:14
+# view res/layout/add_to_homescreen_dialog.xml #generated:15
+# view res/layout/http_auth_dialog.xml #generated:24
+# view res/layout/http_auth_dialog.xml #generated:37
+# view res/layout/js_modal_dialog.xml #generated:30
+# view res/layout/sync_custom_passphrase.xml #generated:14
+# view res/layout/sync_custom_passphrase.xml #generated:22
+# view res/layout/sync_enter_passphrase.xml #generated:19
+# view v17/res/layout-v17/add_to_homescreen_dialog.xml #generated:21
+-keep class org.chromium.chrome.browser.widget.AlertDialogEditText { <init>(...); }
+
+# view res/layout/custom_tabs_bottombar.xml #generated:5
+# view res/layout/payment_request.xml #generated:9
+-keep class org.chromium.chrome.browser.widget.BoundedLinearLayout { <init>(...); }
+
+# view res/layout/autofill_local_card_editor.xml #generated:12
+# view res/layout/autofill_local_card_editor.xml #generated:27
+# view res/layout/autofill_profile_editor.xml #generated:23
+# view res/layout/autofill_profile_editor.xml #generated:41
+# view res/layout/preference_address_float_label_layout.xml #generated:6
+# view v17/res/layout-v17/autofill_local_card_editor.xml #generated:11
+# view v17/res/layout-v17/autofill_local_card_editor.xml #generated:29
+-keep class org.chromium.chrome.browser.widget.CompatibilityTextInputLayout { <init>(...); }
+
+# view res/layout/autofill_editor_base_buttons.xml #generated:16
+# view res/layout/infobar_control_icon_with_description.xml #generated:13
+# view res/layout/infobar_control_spinner_view.xml #generated:8
+# view res/layout/payment_request.xml #generated:35
+# view v17/res/layout-v17/autofill_editor_base_buttons.xml #generated:13
+# view v17/res/layout-v17/infobar_control_icon_with_description.xml #generated:21
+-keep class org.chromium.chrome.browser.widget.DualControlLayout { <init>(...); }
+
+# view res/layout/bookmark_add_edit_folder_activity.xml #generated:25
+# view res/layout/bookmark_edit.xml #generated:30
+# view res/layout/bookmark_edit.xml #generated:49
+# view v17/res/layout-v17/bookmark_add_edit_folder_activity.xml #generated:36
+# view v17/res/layout-v17/bookmark_edit.xml #generated:40
+# view v17/res/layout-v17/bookmark_edit.xml #generated:76
+-keep class org.chromium.chrome.browser.widget.EmptyAlertEditText { <init>(...); }
+
+# view res/layout/bookmark_main_content.xml #generated:56
+# view res/layout/download_main.xml #generated:29
+# view res/layout/payment_request_editor.xml #generated:35
+# view res/layout/physical_web_list_urls_activity.xml #generated:37
+# view sw720dp-v13/res/layout-sw720dp-v13/download_main.xml #generated:48
+# view v17/res/layout-v17/payment_request_editor.xml #generated:43
+# view v17/res/layout-v17/physical_web_list_urls_activity.xml #generated:56
+-keep class org.chromium.chrome.browser.widget.FadingShadowView { <init>(...); }
+
+# view res/layout/bookmark_edit.xml #generated:27
+# view res/layout/bookmark_edit.xml #generated:45
+# view res/layout/homepage_editor.xml #generated:18
+# view res/layout/http_auth_dialog.xml #generated:20
+# view res/layout/http_auth_dialog.xml #generated:33
+# view v17/res/layout-v17/bookmark_edit.xml #generated:36
+# view v17/res/layout-v17/bookmark_edit.xml #generated:71
+-keep class org.chromium.chrome.browser.widget.FloatLabelLayout { <init>(...); }
+
+# view res/layout/bookmark_main_content.xml #generated:38
+-keep class org.chromium.chrome.browser.widget.LoadingView { <init>(...); }
+
+# view res/layout/number_roll_view.xml #generated:6
+-keep class org.chromium.chrome.browser.widget.NumberRollView { <init>(...); }
+
+# view res/layout/confirm_import_sync_data.xml #generated:17
+# view res/layout/confirm_import_sync_data.xml #generated:21
+# view v17/res/layout-v17/confirm_import_sync_data.xml #generated:27
+# view v17/res/layout-v17/confirm_import_sync_data.xml #generated:34
+-keep class org.chromium.chrome.browser.widget.RadioButtonWithDescription { <init>(...); }
+
+# view res/layout/accessibility_tab_switcher.xml #generated:34
+# view res/layout/accessibility_tab_switcher.xml #generated:51
+# view res/layout/accessibility_tab_switcher_list_item.xml #generated:20
+# view res/layout/bookmark_row_content.xml #generated:23
+# view res/layout/custom_tabs_toolbar.xml #generated:14
+# view res/layout/custom_tabs_toolbar.xml #generated:35
+# view res/layout/data_reduction_promo_screen.xml #generated:68
+# view res/layout/empty_background_view_tablet.xml #generated:20
+# view res/layout/find_in_page.xml #generated:17
+# view res/layout/find_in_page.xml #generated:20
+# view res/layout/find_in_page.xml #generated:23
+# view res/layout/icon_row_menu_item.xml #generated:13
+# view res/layout/icon_row_menu_item.xml #generated:17
+# view res/layout/icon_row_menu_item.xml #generated:21
+# view res/layout/icon_row_menu_item.xml #generated:25
+# view res/layout/icon_row_menu_item.xml #generated:29
+# view res/layout/location_bar.xml #generated:21
+# view res/layout/location_bar.xml #generated:45
+# view res/layout/location_bar.xml #generated:57
+# view res/layout/location_bar.xml #generated:61
+# view res/layout/title_button_menu_item.xml #generated:14
+# view res/layout/toolbar.xml #generated:15
+# view res/layout/toolbar.xml #generated:43
+# view sw600dp-v13/res/layout-sw600dp-v13/location_bar.xml #generated:15
+# view sw600dp-v13/res/layout-sw600dp-v13/location_bar.xml #generated:27
+# view sw600dp-v13/res/layout-sw600dp-v13/location_bar.xml #generated:33
+# view sw600dp-v13/res/layout-sw600dp-v13/location_bar.xml #generated:36
+# view sw600dp-v13/res/layout-sw600dp-v13/location_bar.xml #generated:39
+# view sw600dp-v13/res/layout-sw600dp-v13/toolbar.xml #generated:19
+# view sw600dp-v13/res/layout-sw600dp-v13/toolbar.xml #generated:23
+# view sw600dp-v13/res/layout-sw600dp-v13/toolbar.xml #generated:27
+# view sw600dp-v13/res/layout-sw600dp-v13/toolbar.xml #generated:43
+# view sw600dp-v17/res/layout-sw600dp-v17/location_bar.xml #generated:20
+# view sw600dp-v17/res/layout-sw600dp-v17/location_bar.xml #generated:43
+# view sw600dp-v17/res/layout-sw600dp-v17/location_bar.xml #generated:51
+# view sw600dp-v17/res/layout-sw600dp-v17/location_bar.xml #generated:56
+# view sw600dp-v17/res/layout-sw600dp-v17/location_bar.xml #generated:62
+# view sw600dp-v17/res/layout-sw600dp-v17/toolbar.xml #generated:29
+# view sw600dp-v17/res/layout-sw600dp-v17/toolbar.xml #generated:35
+# view sw600dp-v17/res/layout-sw600dp-v17/toolbar.xml #generated:41
+# view sw600dp-v17/res/layout-sw600dp-v17/toolbar.xml #generated:70
+# view v17/res/layout-v17/accessibility_tab_switcher_list_item.xml #generated:44
+# view v17/res/layout-v17/bookmark_row_content.xml #generated:37
+# view v17/res/layout-v17/custom_tabs_toolbar.xml #generated:19
+# view v17/res/layout-v17/custom_tabs_toolbar.xml #generated:73
+# view v17/res/layout-v17/data_reduction_promo_screen.xml #generated:108
+# view v17/res/layout-v17/empty_background_view_tablet.xml #generated:46
+# view v17/res/layout-v17/find_in_page.xml #generated:45
+# view v17/res/layout-v17/find_in_page.xml #generated:51
+# view v17/res/layout-v17/find_in_page.xml #generated:57
+# view v17/res/layout-v17/location_bar.xml #generated:30
+# view v17/res/layout-v17/location_bar.xml #generated:68
+# view v17/res/layout-v17/location_bar.xml #generated:85
+# view v17/res/layout-v17/location_bar.xml #generated:95
+# view v17/res/layout-v17/title_button_menu_item.xml #generated:24
+# view v17/res/layout-v17/toolbar.xml #generated:26
+# view v17/res/layout-v17/toolbar.xml #generated:66
+-keep class org.chromium.chrome.browser.widget.TintedImageButton { <init>(...); }
+
+# view res/layout/clear_storage.xml #generated:6
+# view res/layout/most_visited_item.xml #generated:14
+# view res/layout/new_tab_page_layout.xml #generated:34
+# view res/layout/recent_tabs_group_item.xml #generated:9
+# view v17/res/layout-v17/most_visited_item.xml #generated:24
+# view v17/res/layout-v17/new_tab_page_layout.xml #generated:63
+# view v17/res/layout-v17/recent_tabs_group_item.xml #generated:15
+-keep class org.chromium.chrome.browser.widget.TintedImageView { <init>(...); }
+
+# view res/layout/custom_tabs_toolbar.xml #generated:38
+# view res/layout/toolbar.xml #generated:57
+# view v17/res/layout-v17/custom_tabs_toolbar.xml #generated:82
+# view v17/res/layout-v17/toolbar.xml #generated:82
+-keep class org.chromium.chrome.browser.widget.ToolbarProgressBar { <init>(...); }
+
+# view res/layout/accessibility_tab_switcher_list_item.xml #generated:7
+# view v17/res/layout-v17/accessibility_tab_switcher_list_item.xml #generated:9
+-keep class org.chromium.chrome.browser.widget.accessibility.AccessibilityTabModelListItem { <init>(...); }
+
+# view res/layout/accessibility_tab_switcher.xml #generated:20
+-keep class org.chromium.chrome.browser.widget.accessibility.AccessibilityTabModelListView { <init>(...); }
+
+# view res/layout/accessibility_tab_switcher.xml #generated:9
+-keep class org.chromium.chrome.browser.widget.accessibility.AccessibilityTabModelWrapper { <init>(...); }
+
+# view res/layout/empty_background_view_tablet.xml #generated:5
+# view v17/res/layout-v17/empty_background_view_tablet.xml #generated:6
+-keep class org.chromium.chrome.browser.widget.emptybackground.EmptyBackgroundViewTablet { <init>(...); }
+
+# view res/layout/find_in_page.xml #generated:8
+# view v17/res/layout-v17/find_in_page.xml #generated:13
+-keep class org.chromium.chrome.browser.widget.findinpage.FindToolbar$FindQuery { <init>(...); }
+
+# view res/layout/find_toolbar.xml #generated:8
+-keep class org.chromium.chrome.browser.widget.findinpage.FindToolbarPhone { <init>(...); }
+
+# view sw600dp-v13/res/layout-sw600dp-v13/find_toolbar.xml #generated:8
+-keep class org.chromium.chrome.browser.widget.findinpage.FindToolbarTablet { <init>(...); }
+
+# view res/layout/empty_background_view_tablet.xml #generated:17
+# view v17/res/layout-v17/empty_background_view_tablet.xml #generated:37
+-keep class org.chromium.chrome.browser.widget.incognitotoggle.IncognitoToggleButtonTablet { <init>(...); }
+
+# view res/layout/empty_background_view_tablet.xml #generated:11
+# view res/layout/toolbar.xml #generated:11
+# view v17/res/layout-v17/empty_background_view_tablet.xml #generated:21
+# view v17/res/layout-v17/toolbar.xml #generated:15
+-keep class org.chromium.chrome.browser.widget.newtab.NewTabButton { <init>(...); }
+
+# view res/layout/selectable_item_highlight_view.xml #generated:6
+-keep class org.chromium.chrome.browser.widget.selection.SelectableItemHighlightView { <init>(...); }
+
+# view AndroidManifest.xml #generated:1018
+-keep class org.chromium.components.invalidation.InvalidationClientService { <init>(...); }
+
+# view AndroidManifest.xml #generated:944
+-keep class org.chromium.components.variations.firstrun.VariationsSeedService { <init>(...); }
+
+# view AndroidManifest.xml #generated:947
+-keep class org.chromium.components.variations.firstrun.VariationsSeedServiceLauncher { <init>(...); }
+
+# view AndroidManifest.xml #generated:1236
+-keep class org.chromium.content.app.DownloadProcessService { <init>(...); }
+
+# view AndroidManifest.xml #generated:1209
+-keep class org.chromium.content.app.PrivilegedProcessService0 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1217
+-keep class org.chromium.content.app.PrivilegedProcessService1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1225
+-keep class org.chromium.content.app.PrivilegedProcessService2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1083
+-keep class org.chromium.content.app.SandboxedProcessService0 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1089
+-keep class org.chromium.content.app.SandboxedProcessService1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1143
+-keep class org.chromium.content.app.SandboxedProcessService10 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1149
+-keep class org.chromium.content.app.SandboxedProcessService11 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1155
+-keep class org.chromium.content.app.SandboxedProcessService12 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1161
+-keep class org.chromium.content.app.SandboxedProcessService13 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1167
+-keep class org.chromium.content.app.SandboxedProcessService14 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1173
+-keep class org.chromium.content.app.SandboxedProcessService15 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1179
+-keep class org.chromium.content.app.SandboxedProcessService16 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1185
+-keep class org.chromium.content.app.SandboxedProcessService17 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1191
+-keep class org.chromium.content.app.SandboxedProcessService18 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1197
+-keep class org.chromium.content.app.SandboxedProcessService19 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1095
+-keep class org.chromium.content.app.SandboxedProcessService2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1101
+-keep class org.chromium.content.app.SandboxedProcessService3 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1107
+-keep class org.chromium.content.app.SandboxedProcessService4 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1113
+-keep class org.chromium.content.app.SandboxedProcessService5 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1119
+-keep class org.chromium.content.app.SandboxedProcessService6 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1125
+-keep class org.chromium.content.app.SandboxedProcessService7 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1131
+-keep class org.chromium.content.app.SandboxedProcessService8 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1137
+-keep class org.chromium.content.app.SandboxedProcessService9 { <init>(...); }
+
+# view res/layout/data_usage_chart.xml #generated:6
+-keep class org.chromium.third_party.android.datausagechart.ChartDataUsageView { <init>(...); }
+
+# view res/layout/data_usage_chart.xml #generated:15
+# view res/layout/data_usage_chart.xml #generated:24
+-keep class org.chromium.third_party.android.datausagechart.ChartNetworkSeriesView { <init>(...); }
+
+# view res/layout/expanded_cast_controller.xml #generated:16
+# view v17/res/layout-v17/expanded_cast_controller.xml #generated:35
+-keep class org.chromium.third_party.android.media.MediaController { <init>(...); }
+
+# view res/layout/color_picker_dialog_content.xml #generated:15
+# view v17/res/layout-v17/color_picker_dialog_content.xml #generated:18
+-keep class org.chromium.ui.ColorPickerAdvanced { <init>(...); }
+
+# view res/layout/color_picker_dialog_content.xml #generated:30
+# view v17/res/layout-v17/color_picker_dialog_content.xml #generated:42
+-keep class org.chromium.ui.ColorPickerMoreButton { <init>(...); }
+
+# view res/layout/color_picker_dialog_content.xml #generated:22
+# view v17/res/layout-v17/color_picker_dialog_content.xml #generated:24
+-keep class org.chromium.ui.ColorPickerSimple { <init>(...); }
+
+# view res/layout/account_signin_view.xml #generated:135
+# view res/layout/contextual_search_promo_view.xml #generated:18
+# view res/layout/data_reduction_promo_screen.xml #generated:58
+# view res/layout/fre_data_reduction_proxy.xml #generated:63
+# view res/layout/fre_tosanduma.xml #generated:62
+# view res/layout/item_chooser_dialog.xml #generated:56
+# view res/layout/lightweight_fre_tos.xml #generated:19
+# view res/layout/preference_button.xml #generated:18
+# view res/layout/sad_tab.xml #generated:29
+# view res/layout/signin_and_sync_view.xml #generated:47
+# view v17/res/layout-v17/account_signin_view.xml #generated:240
+# view v17/res/layout-v17/contextual_search_promo_view.xml #generated:33
+# view v17/res/layout-v17/data_reduction_promo_screen.xml #generated:95
+# view v17/res/layout-v17/fre_data_reduction_proxy.xml #generated:85
+# view v17/res/layout-v17/fre_tosanduma.xml #generated:82
+# view v17/res/layout-v17/item_chooser_dialog.xml #generated:71
+# view v17/res/layout-v17/lightweight_fre_tos.xml #generated:39
+# view v17/res/layout-v17/sad_tab.xml #generated:61
+-keep class org.chromium.ui.widget.ButtonCompat { <init>(...); }
+
+# view res/layout/account_signin_view.xml #generated:104
+# view res/layout/auto_sign_in_first_run_dialog.xml #generated:11
+# view res/layout/contextual_search_promo_view.xml #generated:14
+# view res/layout/fre_tosanduma.xml #generated:39
+# view res/layout/infobar_control_message.xml #generated:6
+# view res/layout/item_chooser_dialog.xml #generated:13
+# view res/layout/item_chooser_dialog.xml #generated:20
+# view res/layout/item_chooser_dialog.xml #generated:49
+# view res/layout/lightweight_fre_tos.xml #generated:15
+# view res/layout/other_forms_of_history_dialog.xml #generated:13
+# view res/layout/sad_tab.xml #generated:25
+# view res/layout/sync_custom_passphrase.xml #generated:30
+# view res/layout/sync_enter_passphrase.xml #generated:31
+# view res/layout/sync_passphrase_types.xml #generated:16
+# view res/layout/text_message_with_link_and_icon_preference.xml #generated:14
+# view res/layout/text_message_with_link_and_icon_preference.xml #generated:18
+# view v17/res/layout-v17/account_signin_view.xml #generated:197
+# view v17/res/layout-v17/contextual_search_promo_view.xml #generated:19
+# view v17/res/layout-v17/fre_tosanduma.xml #generated:58
+# view v17/res/layout-v17/item_chooser_dialog.xml #generated:16
+# view v17/res/layout-v17/item_chooser_dialog.xml #generated:26
+# view v17/res/layout-v17/item_chooser_dialog.xml #generated:61
+# view v17/res/layout-v17/lightweight_fre_tos.xml #generated:26
+# view v17/res/layout-v17/sad_tab.xml #generated:52
+# view v17/res/layout-v17/text_message_with_link_and_icon_preference.xml #generated:22
+# view v17/res/layout-v17/text_message_with_link_and_icon_preference.xml #generated:31
+-keep class org.chromium.ui.widget.TextViewWithClickableSpans { <init>(...); }
+
+# view res/layout/new_tab_page_snippets_card.xml #generated:13
+# view res/layout/new_tab_page_snippets_card.xml #generated:9
+# view res/layout/new_tab_page_status_card.xml #generated:13
+# view res/layout/new_tab_page_status_card.xml #generated:9
+# view v17/res/layout-v17/new_tab_page_snippets_card.xml #generated:15
+# view v17/res/layout-v17/new_tab_page_snippets_card.xml #generated:26
+# view v17/res/layout-v17/new_tab_page_status_card.xml #generated:17
+# view v17/res/layout-v17/new_tab_page_status_card.xml #generated:25
+-keep class org.chromium.ui.widget.TextViewWithLeading { <init>(...); }
+

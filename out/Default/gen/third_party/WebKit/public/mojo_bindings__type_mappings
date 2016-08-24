@@ -1,0 +1,77 @@
+{
+  "c++": {
+    "blink.mojom.WebBluetoothDeviceId": {
+      "typename": "content::WebBluetoothDeviceId", 
+      "traits_headers": [
+        "content/common/bluetooth/web_bluetooth_device_id_struct_traits.h"
+      ], 
+      "copyable_pass_by_value": false, 
+      "move_only": false, 
+      "nullable_is_same_type": false, 
+      "public_headers": [
+        "content/common/bluetooth/web_bluetooth_device_id.h"
+      ]
+    }, 
+    "cc.mojom.SurfaceId": {
+      "typename": "cc::SurfaceId", 
+      "traits_headers": [
+        "cc/ipc/surface_id_struct_traits.h"
+      ], 
+      "copyable_pass_by_value": false, 
+      "move_only": false, 
+      "nullable_is_same_type": false, 
+      "public_headers": [
+        "cc/surfaces/surface_id.h"
+      ]
+    }, 
+    "url.mojom.Origin": {
+      "typename": "url::Origin", 
+      "traits_headers": [
+        "url/mojo/origin_struct_traits.h"
+      ], 
+      "copyable_pass_by_value": false, 
+      "move_only": false, 
+      "nullable_is_same_type": false, 
+      "public_headers": [
+        "url/origin.h"
+      ]
+    }, 
+    "url.mojom.Url": {
+      "typename": "GURL", 
+      "traits_headers": [
+        "url/mojo/url_gurl_struct_traits.h"
+      ], 
+      "copyable_pass_by_value": false, 
+      "move_only": false, 
+      "nullable_is_same_type": false, 
+      "public_headers": [
+        "url/gurl.h"
+      ]
+    }, 
+    "cc.mojom.SurfaceSequence": {
+      "typename": "cc::SurfaceSequence", 
+      "traits_headers": [
+        "cc/ipc/surface_sequence_struct_traits.h"
+      ], 
+      "copyable_pass_by_value": false, 
+      "move_only": false, 
+      "nullable_is_same_type": false, 
+      "public_headers": [
+        "cc/surfaces/surface_sequence.h"
+      ]
+    }, 
+    "device.mojom.BluetoothUUID": {
+      "typename": "base::Optional<device::BluetoothUUID>", 
+      "traits_headers": [
+        "device/bluetooth/public/interfaces/bluetooth_uuid_struct_traits.h"
+      ], 
+      "copyable_pass_by_value": false, 
+      "move_only": false, 
+      "nullable_is_same_type": true, 
+      "public_headers": [
+        "base/optional.h", 
+        "device/bluetooth/bluetooth_uuid.h"
+      ]
+    }
+  }
+}

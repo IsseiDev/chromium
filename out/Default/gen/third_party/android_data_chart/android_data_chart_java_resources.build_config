@@ -1,0 +1,21 @@
+{
+  "deps_info": {
+    "deps_configs": [],
+    "name": "android_data_chart_java_resources.build_config",
+    "package_name": "org.chromium.third_party.android",
+    "path": "gen/third_party/android_data_chart/android_data_chart_java_resources.build_config",
+    "r_text": "gen/third_party/android_data_chart/android_data_chart_java_resources_R.txt",
+    "resources_dirs": [
+      "../../third_party/android_data_chart/java/res"
+    ],
+    "resources_zip": "gen/third_party/android_data_chart/android_data_chart_java_resources.resources.zip",
+    "srcjar": "gen/third_party/android_data_chart/android_data_chart_java_resources.srcjar",
+    "type": "android_resources"
+  },
+  "gradle": {},
+  "resources": {
+    "dependency_zips": [],
+    "extra_package_names": [],
+    "extra_r_text_files": []
+  }
+}

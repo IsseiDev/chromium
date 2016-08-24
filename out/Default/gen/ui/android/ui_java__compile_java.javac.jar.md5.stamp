@@ -1,0 +1,456 @@
+{
+  "input-strings": [
+    "javac", 
+    "-g", 
+    "-encoding", 
+    "UTF-8", 
+    "-classpath", 
+    "lib.java/base/base_java.interface.jar:lib.java/third_party/android_tools/android_support_annotations_java.interface.jar", 
+    "-sourcepath", 
+    "", 
+    "-bootclasspath", 
+    "lib.java/android.interface.jar", 
+    "-source", 
+    "1.7", 
+    "-target", 
+    "1.7", 
+    "-Xlint:unchecked", 
+    "-Xlint:deprecation"
+  ], 
+  "files-md5": "491ee4c72e64efdaa8fd96c1b92c6297", 
+  "input-files": [
+    {
+      "path": "lib.java/android.interface.jar", 
+      "tag": "5fa862de0d5afd817ca1133be562b120"
+    }, 
+    {
+      "path": "lib.java/base/base_java.interface.jar", 
+      "tag": "03fddfa97f4e599a146028fab81419e6"
+    }, 
+    {
+      "path": "lib.java/third_party/android_tools/android_support_annotations_java.interface.jar", 
+      "tag": "a0e4aeeddadb4fc8a99b3c5c6124bec9"
+    }, 
+    {
+      "path": "gen/ui/android/java_enums_srcjar.srcjar", 
+      "tag": "89b77be86fe87834d82da4cc6b935653", 
+      "entries": [
+        {
+          "path": "org/chromium/ui/base/ime/TextInputType.java", 
+          "tag": 3919921059
+        }, 
+        {
+          "path": "org/chromium/ui/base/PageTransition.java", 
+          "tag": 239045667
+        }, 
+        {
+          "path": "org/chromium/ui/base/PointerType.java", 
+          "tag": 1025996901
+        }, 
+        {
+          "path": "org/chromium/ui/base/HoverType.java", 
+          "tag": 1724570677
+        }, 
+        {
+          "path": "org/chromium/ui/WindowOpenDisposition.java", 
+          "tag": 1924541544
+        }, 
+        {
+          "path": "org/chromium/ui/gfx/BitmapFormat.java", 
+          "tag": 1154189404
+        }, 
+        {
+          "path": "org/chromium/ui/resources/AndroidResourceType.java", 
+          "tag": 291512712
+        }, 
+        {
+          "path": "org/chromium/ui/resources/SystemUIResourceType.java", 
+          "tag": 3284720060
+        }
+      ]
+    }, 
+    {
+      "path": "gen/ui/android/ui_java_resources.srcjar", 
+      "tag": "5b0e3dcc41ac7155bd22d06d5f54b024", 
+      "entries": [
+        {
+          "path": "org/chromium/ui/R.java", 
+          "tag": 3835228560
+        }
+      ]
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/ColorPickerAdvanced.java", 
+      "tag": "3f9fba295ff8a8ea0d4fb1da13734ed7"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/ColorPickerAdvancedComponent.java", 
+      "tag": "547e5c63a0d1f4d227458f2e1773164f"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/ColorPickerDialog.java", 
+      "tag": "6a57c5dbb150b3b62d6b1a5ec62073e0"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/ColorPickerMoreButton.java", 
+      "tag": "9c7068d25ed9ccfea0e1bdcd297abea3"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/ColorPickerSimple.java", 
+      "tag": "e5902b7be6eb18155396df58aa788fb4"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/ColorSuggestion.java", 
+      "tag": "c67e2ad067f396a57aa93c8314c70ac2"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/ColorSuggestionListAdapter.java", 
+      "tag": "e14f16801c6c230428a3059c324f39bb"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/DropdownAdapter.java", 
+      "tag": "dbc1fe99a38cad44928fbc54ce239f1f"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/DropdownDividerDrawable.java", 
+      "tag": "1ed05c1923e1e2e167bb0b67eea98f3b"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/DropdownItem.java", 
+      "tag": "adaf1a61d53029f7fb12af5cf565e311"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/DropdownPopupWindow.java", 
+      "tag": "f85a55e60171d43759c4d5e39c82110f"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/OnColorChangedListener.java", 
+      "tag": "228af6ddd3df319307512fa9bc34acd3"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/UiUtils.java", 
+      "tag": "78f89937eaa7bbf6a350045f4e8608f6"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/VSyncMonitor.java", 
+      "tag": "d40016d29877daec448b54c76f552691"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/autofill/AutofillDelegate.java", 
+      "tag": "7c4afa4d5c66aa7486b510ce8edd7111"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/autofill/AutofillKeyboardAccessory.java", 
+      "tag": "ada24edc1893b3e06ac16e312ab9a3bc"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/autofill/AutofillPopup.java", 
+      "tag": "1d557bc35ce2d54e665a5d56598c2148"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/autofill/AutofillSuggestion.java", 
+      "tag": "9a517a93920097eca621a4bfe7ac2035"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/base/ActivityWindowAndroid.java", 
+      "tag": "5174116ffbe5ee5e9c0963c0ac60d783"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/base/AndroidPermissionDelegate.java", 
+      "tag": "58bdeffe59aa8d015ae5ac0a8faaf242"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/base/Clipboard.java", 
+      "tag": "36bcc98e0f030c945684cd7362e71755"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/base/DeviceFormFactor.java", 
+      "tag": "a50376bf38a8101fd1f5dc4d7758129b"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/base/LocalizationUtils.java", 
+      "tag": "26a55d4655c3a3bff6b6df130478a6bd"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/base/ResourceBundle.java", 
+      "tag": "0b4b9421a834a3ee2971a1409a601a74"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/base/SelectFileDialog.java", 
+      "tag": "8720584466c97c214881bceb3300b827"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/base/TouchDevice.java", 
+      "tag": "00e547e4e1d0c0431f600d8b4fe61cda"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/base/ViewAndroidDelegate.java", 
+      "tag": "ba91c77a4cd81e7532be8bf88139fec4"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/base/WindowAndroid.java", 
+      "tag": "b7d990a1eb8d74b2cbb5638ac37bc3c6"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/gfx/BitmapHelper.java", 
+      "tag": "c986594941446f8e8c719496de294e85"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/gfx/DeviceDisplayInfo.java", 
+      "tag": "1523e87d27f936a4d6154ba754d9e3a2"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/gfx/ViewConfigurationHelper.java", 
+      "tag": "d9afa22d6d36d2b9e6f8d4f0fb076e31"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/gl/SurfaceTextureListener.java", 
+      "tag": "aa9bdb4043e5b27deec63f060387d5e4"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/gl/SurfaceTexturePlatformWrapper.java", 
+      "tag": "0eded679e6e6a62d7f981b0fe0e5a939"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/interpolators/BakedBezierInterpolator.java", 
+      "tag": "670bef349648f1d4c8a562efc64e013d"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/picker/ChromeDatePickerDialog.java", 
+      "tag": "d0e1bd697656a8b03be5b230b6589abe"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/picker/DateDialogNormalizer.java", 
+      "tag": "270e3853107b7c7a319f5ed979ca671d"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/picker/DateTimePickerDialog.java", 
+      "tag": "b631e871e1e5955eca38c1a4190ef4e9"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/picker/DateTimeSuggestion.java", 
+      "tag": "44be26f7edb62695efd029cfefefabfe"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/picker/DateTimeSuggestionListAdapter.java", 
+      "tag": "df817f9a617f688d4b3370961f5764df"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/picker/InputDialogContainer.java", 
+      "tag": "9958eed228685a65e413a93545cab596"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/picker/MonthPicker.java", 
+      "tag": "40aab66d26bafcefc9a63c6c263c994f"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/picker/MonthPickerDialog.java", 
+      "tag": "79b07844a8d1810c6d3a61e85f85462f"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/picker/MultiFieldTimePickerDialog.java", 
+      "tag": "9d9ca9dadb05728fcf54bb9fd57fc933"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/picker/TwoFieldDatePicker.java", 
+      "tag": "468123fa123f0b6801d601e48bf4a2b2"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/picker/TwoFieldDatePickerDialog.java", 
+      "tag": "2fc57dbf9583f73e089b7f8f09bf65c1"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/picker/WeekPicker.java", 
+      "tag": "4d5f6fc8c5c7e7b789492d3fa1739741"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/picker/WeekPickerDialog.java", 
+      "tag": "f7d310933cd569dcae412cddee69ad13"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/resources/LayoutResource.java", 
+      "tag": "d3b94e3cfdd33801e2c80c22662e8aaf"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/resources/Resource.java", 
+      "tag": "67c031b04f4510ad399b4f8ca37e5d1c"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/resources/ResourceLoader.java", 
+      "tag": "fac22a6ae40057756d9d6da7f93b36ad"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/resources/ResourceManager.java", 
+      "tag": "0748461740841968741e22c248c0c9ac"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/resources/async/AsyncPreloadResourceLoader.java", 
+      "tag": "5472117331845a0caba829116a388c53"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/resources/dynamics/BitmapDynamicResource.java", 
+      "tag": "b211a51ff9637ebe0086ed5a2b37767a"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/resources/dynamics/DynamicResource.java", 
+      "tag": "02bc6e5f6f615d530b8b14cbd50627f0"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/resources/dynamics/DynamicResourceLoader.java", 
+      "tag": "334292a81e1ec6154a3776a7a90261bc"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/resources/dynamics/ViewResourceAdapter.java", 
+      "tag": "522e88cad9a57b391f82c5e41f65b06b"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/resources/dynamics/ViewResourceInflater.java", 
+      "tag": "6d1f2969b60007d5728c05d67846ce02"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/resources/sprites/CrushedSpriteResource.java", 
+      "tag": "732622d874d9397a57a8453ffaf7ed69"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/resources/sprites/CrushedSpriteResourceLoader.java", 
+      "tag": "5ea0abbc1bb81bfc75050d8da23a0b81"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/resources/statics/NinePatchData.java", 
+      "tag": "a8cce4b1484f85a8de8db38a415c5816"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/resources/statics/StaticResource.java", 
+      "tag": "397b26c2c29b0f9111612eb361575e8e"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/resources/statics/StaticResourceLoader.java", 
+      "tag": "b8f7192c5f9bc5b935ebba8a75d95f28"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/resources/system/SystemResourceLoader.java", 
+      "tag": "ef9d8dc8f03dbc3e497611a8cab002b2"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/text/NoUnderlineClickableSpan.java", 
+      "tag": "4f6ac6a3798e3c1ad565b3583c9e98eb"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/text/SpanApplier.java", 
+      "tag": "4a56be5c0c50f312eeb8cc4b57cefdc5"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/widget/ButtonCompat.java", 
+      "tag": "b6d98255cabd568c74ea70dcc5dcd309"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/widget/TextViewWithClickableSpans.java", 
+      "tag": "8f63eded2c2749299d898616dca60a90"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/widget/TextViewWithLeading.java", 
+      "tag": "54da8519303602b7f8f48903c9c8a9c3"
+    }, 
+    {
+      "path": "../../ui/android/java/src/org/chromium/ui/widget/Toast.java", 
+      "tag": "63e2fed49344cda4e0b3ffb2eca4ed1d"
+    }, 
+    {
+      "path": "../../build/android/gyp/jar.py", 
+      "tag": "e852388bb0071020ffd36a3621c1b7e9"
+    }, 
+    {
+      "path": "../../build/android/gyp/javac.py", 
+      "tag": "7255fc6363fc47e605a4c65bb6ec9ec5"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "92ad5273ce9088c21a3c300ba323de11"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "62bdbbcfa67e889db3c3e4e870726598"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "ee98faa18e9846f3020f06851f55fac6"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "a5ae0b9a12e459caee036ba2b1d002ea"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "ceb0e94d90c2c33ad7a18790771736f5"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "6e2869f191d6ab4f90b87d3cf4e726dc"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "bca8eaac47a82421752826d8c7c0a66e"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "2c2913af79ec1be5dbd4b597f471e339"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }, 
+    {
+      "path": "../../third_party/colorama/src/colorama/__init__.py", 
+      "tag": "de647b90a4b99c279f3e4e358ea39b3e"
+    }, 
+    {
+      "path": "../../third_party/colorama/src/colorama/ansi.py", 
+      "tag": "3ad189643bf1b70eb5be73153569c26c"
+    }, 
+    {
+      "path": "../../third_party/colorama/src/colorama/ansitowin32.py", 
+      "tag": "9b39fc8f8d1af5b00161ed93f037176b"
+    }, 
+    {
+      "path": "../../third_party/colorama/src/colorama/initialise.py", 
+      "tag": "91141f9b74377895dae6f33b6de5cca8"
+    }, 
+    {
+      "path": "../../third_party/colorama/src/colorama/win32.py", 
+      "tag": "e6ef5597c899deefd23e628b209763dd"
+    }, 
+    {
+      "path": "../../third_party/colorama/src/colorama/winterm.py", 
+      "tag": "9d0c650cd287ccf58d29894feec2178f"
+    }
+  ], 
+  "strings-md5": "8ec75e29217bf1d23f9e82d4f6950210"
+}

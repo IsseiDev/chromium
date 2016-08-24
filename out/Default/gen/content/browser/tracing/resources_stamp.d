@@ -1,0 +1,1 @@
+gen/content/browser/tracing/resources_stamp.d.stamp: ./../../tools/gritsettings/resource_ids

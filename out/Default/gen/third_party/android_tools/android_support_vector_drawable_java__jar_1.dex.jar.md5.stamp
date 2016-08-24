@@ -1,0 +1,156 @@
+{
+  "input-strings": [
+    "../../third_party/android_tools/sdk/build-tools/23.0.1/dx", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "gen/third_party/android_tools/android_support_vector_drawable_java__jar_1.dex.jar"
+  ], 
+  "files-md5": "f9a62b12dbcc252be36c312ea03b17e4", 
+  "input-files": [
+    {
+      "path": "lib.java/third_party/android_tools/android_support_vector_drawable_java__jar_1.jar", 
+      "tag": "01d611680a04b8610fdd55ddc2681e98", 
+      "entries": [
+        {
+          "path": "android/support/graphics/drawable/VectorDrawableCompat$VectorDrawableCompatState.class", 
+          "tag": 887998207
+        }, 
+        {
+          "path": "android/support/graphics/drawable/VectorDrawableCompat$VectorDrawableDelegateState.class", 
+          "tag": 1553385674
+        }, 
+        {
+          "path": "android/support/graphics/drawable/VectorDrawableCompat.class", 
+          "tag": 2925947574
+        }, 
+        {
+          "path": "android/support/graphics/drawable/VectorDrawableCompat$1.class", 
+          "tag": 469386971
+        }, 
+        {
+          "path": "android/support/graphics/drawable/VectorDrawableCompat$VGroup.class", 
+          "tag": 425807796
+        }, 
+        {
+          "path": "android/support/graphics/drawable/BuildConfig.class", 
+          "tag": 2887250284
+        }, 
+        {
+          "path": "android/support/graphics/drawable/PathParser$1.class", 
+          "tag": 2311969710
+        }, 
+        {
+          "path": "android/support/graphics/drawable/TypedArrayUtils.class", 
+          "tag": 1504370708
+        }, 
+        {
+          "path": "android/support/graphics/drawable/VectorDrawableCompat$VClipPath.class", 
+          "tag": 337022173
+        }, 
+        {
+          "path": "android/support/graphics/drawable/AndroidResources.class", 
+          "tag": 3312772359
+        }, 
+        {
+          "path": "android/support/graphics/drawable/PathParser.class", 
+          "tag": 464111377
+        }, 
+        {
+          "path": "android/support/graphics/drawable/VectorDrawableCompat$VPath.class", 
+          "tag": 3850904608
+        }, 
+        {
+          "path": "android/support/graphics/drawable/VectorDrawableCompat$VFullPath.class", 
+          "tag": 2902578736
+        }, 
+        {
+          "path": "android/support/graphics/drawable/VectorDrawableCommon.class", 
+          "tag": 2686546738
+        }, 
+        {
+          "path": "android/support/graphics/drawable/PathParser$PathDataNode.class", 
+          "tag": 468210565
+        }, 
+        {
+          "path": "android/support/graphics/drawable/VectorDrawableCompat$VPathRenderer.class", 
+          "tag": 1283947866
+        }, 
+        {
+          "path": "android/support/graphics/drawable/PathParser$ExtractFloatResult.class", 
+          "tag": 2782205626
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/dex.py", 
+      "tag": "f8d244cadb9dfce772ccee702d38d5e5"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "92ad5273ce9088c21a3c300ba323de11"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "62bdbbcfa67e889db3c3e4e870726598"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "ee98faa18e9846f3020f06851f55fac6"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "a5ae0b9a12e459caee036ba2b1d002ea"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "ceb0e94d90c2c33ad7a18790771736f5"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "6e2869f191d6ab4f90b87d3cf4e726dc"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "bca8eaac47a82421752826d8c7c0a66e"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "2c2913af79ec1be5dbd4b597f471e339"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "fa6603c9d6574d3b934698fcb7867ded"
+}

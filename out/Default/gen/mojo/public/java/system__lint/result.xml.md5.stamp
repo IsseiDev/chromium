@@ -1,0 +1,300 @@
+{
+  "input-strings": [
+    "23", 
+    "gen/mojo/public/java/system__lint/config.xml"
+  ], 
+  "files-md5": "42e9ac94d9e686a9b76f8f8359ca5a69", 
+  "input-files": [
+    {
+      "path": "../../third_party/android_tools/sdk/tools/lint", 
+      "tag": "666ebed698584a14eb3f3c544d8583fd"
+    }, 
+    {
+      "path": "../../third_party/android_tools/sdk/platform-tools/api/api-versions.xml", 
+      "tag": "ac04ed79e8aa48b84c2110427dcc261c"
+    }, 
+    {
+      "path": "../../build/android/lint/suppressions.xml", 
+      "tag": "38725e6a74ecc214932a5d5a429bd505"
+    }, 
+    {
+      "path": "lib.java/mojo/public/java/system.jar", 
+      "tag": "c98715ec517b3979335864824d9a877e", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 4245419769
+        }, 
+        {
+          "path": "org/chromium/mojo/system/DataPipe$ProducerHandle.class", 
+          "tag": 3935360235
+        }, 
+        {
+          "path": "org/chromium/mojo/system/Core$HandleSignalsState.class", 
+          "tag": 4078478691
+        }, 
+        {
+          "path": "org/chromium/mojo/system/SharedBufferHandle$DuplicateFlags.class", 
+          "tag": 2721457429
+        }, 
+        {
+          "path": "org/chromium/mojo/system/DataPipe$CreateFlags.class", 
+          "tag": 2516993716
+        }, 
+        {
+          "path": "org/chromium/mojo/system/SharedBufferHandle$CreateFlags.class", 
+          "tag": 2946098476
+        }, 
+        {
+          "path": "org/chromium/mojo/system/Core.class", 
+          "tag": 457169744
+        }, 
+        {
+          "path": "org/chromium/mojo/system/InvalidHandle.class", 
+          "tag": 2678842571
+        }, 
+        {
+          "path": "org/chromium/mojo/system/Core$WaitResult.class", 
+          "tag": 3171644444
+        }, 
+        {
+          "path": "org/chromium/mojo/system/DataPipe$CreateOptions.class", 
+          "tag": 2969516997
+        }, 
+        {
+          "path": "org/chromium/mojo/system/DataPipe$ReadFlags.class", 
+          "tag": 2630674959
+        }, 
+        {
+          "path": "org/chromium/mojo/system/RunLoop.class", 
+          "tag": 3207025865
+        }, 
+        {
+          "path": "org/chromium/mojo/system/MessagePipeHandle$CreateFlags.class", 
+          "tag": 3120916532
+        }, 
+        {
+          "path": "org/chromium/mojo/system/MessagePipeHandle$ReadMessageResult.class", 
+          "tag": 2329784207
+        }, 
+        {
+          "path": "org/chromium/mojo/system/MojoException.class", 
+          "tag": 1053266583
+        }, 
+        {
+          "path": "org/chromium/mojo/system/Pair.class", 
+          "tag": 1554178301
+        }, 
+        {
+          "path": "org/chromium/mojo/system/ResultAnd.class", 
+          "tag": 1254002505
+        }, 
+        {
+          "path": "org/chromium/mojo/system/MojoResult.class", 
+          "tag": 3795957887
+        }, 
+        {
+          "path": "org/chromium/mojo/system/SharedBufferHandle$CreateOptions.class", 
+          "tag": 3490546478
+        }, 
+        {
+          "path": "org/chromium/mojo/system/MessagePipeHandle$ReadFlags.class", 
+          "tag": 386636809
+        }, 
+        {
+          "path": "org/chromium/mojo/system/Watcher$Callback.class", 
+          "tag": 3586928166
+        }, 
+        {
+          "path": "org/chromium/mojo/system/Core$HandleSignals.class", 
+          "tag": 2449371804
+        }, 
+        {
+          "path": "org/chromium/mojo/system/DataPipe.class", 
+          "tag": 1831072019
+        }, 
+        {
+          "path": "org/chromium/mojo/system/Watcher.class", 
+          "tag": 4267627081
+        }, 
+        {
+          "path": "org/chromium/mojo/system/SharedBufferHandle$DuplicateOptions.class", 
+          "tag": 1599569157
+        }, 
+        {
+          "path": "org/chromium/mojo/system/DataPipe$ConsumerHandle.class", 
+          "tag": 495987567
+        }, 
+        {
+          "path": "org/chromium/mojo/system/MessagePipeHandle$CreateOptions.class", 
+          "tag": 4220956519
+        }, 
+        {
+          "path": "org/chromium/mojo/system/Flags.class", 
+          "tag": 3381380639
+        }, 
+        {
+          "path": "org/chromium/mojo/system/UntypedHandle.class", 
+          "tag": 1471378596
+        }, 
+        {
+          "path": "org/chromium/mojo/system/MessagePipeHandle.class", 
+          "tag": 3591599745
+        }, 
+        {
+          "path": "org/chromium/mojo/system/Core$WaitManyResult.class", 
+          "tag": 1732932018
+        }, 
+        {
+          "path": "org/chromium/mojo/system/Handle.class", 
+          "tag": 3726822384
+        }, 
+        {
+          "path": "org/chromium/mojo/system/SharedBufferHandle.class", 
+          "tag": 3294288259
+        }, 
+        {
+          "path": "org/chromium/mojo/system/DataPipe$WriteFlags.class", 
+          "tag": 979275948
+        }, 
+        {
+          "path": "org/chromium/mojo/system/MessagePipeHandle$WriteFlags.class", 
+          "tag": 1047347841
+        }, 
+        {
+          "path": "org/chromium/mojo/system/SharedBufferHandle$MapFlags.class", 
+          "tag": 929420991
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/AndroidManifest.xml", 
+      "tag": "1e268e69507b3046dc16c21132c3d1b3"
+    }, 
+    {
+      "path": "../../mojo/public/java/system/src/org/chromium/mojo/system/Core.java", 
+      "tag": "d2a4bf5ab831119698d9a3a8eb430eb2"
+    }, 
+    {
+      "path": "../../mojo/public/java/system/src/org/chromium/mojo/system/DataPipe.java", 
+      "tag": "2821fe7553b118d7d5604dd66353a152"
+    }, 
+    {
+      "path": "../../mojo/public/java/system/src/org/chromium/mojo/system/Flags.java", 
+      "tag": "e6eef0108a0942fc2f4b342318456535"
+    }, 
+    {
+      "path": "../../mojo/public/java/system/src/org/chromium/mojo/system/Handle.java", 
+      "tag": "e66fc8e582c811a4a19dd9fd4c542d0c"
+    }, 
+    {
+      "path": "../../mojo/public/java/system/src/org/chromium/mojo/system/InvalidHandle.java", 
+      "tag": "2a7d6c272e1deb6491b3109769b842c2"
+    }, 
+    {
+      "path": "../../mojo/public/java/system/src/org/chromium/mojo/system/MessagePipeHandle.java", 
+      "tag": "d28da7ae740d3866667cd7b6415baddd"
+    }, 
+    {
+      "path": "../../mojo/public/java/system/src/org/chromium/mojo/system/MojoException.java", 
+      "tag": "28c61b9e7d4d5c4ac6dac27f8b8a7746"
+    }, 
+    {
+      "path": "../../mojo/public/java/system/src/org/chromium/mojo/system/MojoResult.java", 
+      "tag": "280f95fb905df160af487e9f974614cd"
+    }, 
+    {
+      "path": "../../mojo/public/java/system/src/org/chromium/mojo/system/Pair.java", 
+      "tag": "d60c1dac1774fadf09892e51bcb330c8"
+    }, 
+    {
+      "path": "../../mojo/public/java/system/src/org/chromium/mojo/system/ResultAnd.java", 
+      "tag": "73145571e8bb59cdc6432d10dcf1ff54"
+    }, 
+    {
+      "path": "../../mojo/public/java/system/src/org/chromium/mojo/system/SharedBufferHandle.java", 
+      "tag": "bc39ebd9b9f3c67e6b204a0677dfe0f0"
+    }, 
+    {
+      "path": "../../mojo/public/java/system/src/org/chromium/mojo/system/UntypedHandle.java", 
+      "tag": "37788ea8a2d8086883bb601ded888e8c"
+    }, 
+    {
+      "path": "../../mojo/public/java/system/src/org/chromium/mojo/system/RunLoop.java", 
+      "tag": "3bb30d03a3962ed9ccb2606a3cc5cb6b"
+    }, 
+    {
+      "path": "../../mojo/public/java/system/src/org/chromium/mojo/system/Watcher.java", 
+      "tag": "fac659f9210b5dcfdda6b8d40a729376"
+    }, 
+    {
+      "path": "../../build/android/gyp/lint.py", 
+      "tag": "92384705ab22612f17ffa9523eda46db"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "92ad5273ce9088c21a3c300ba323de11"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "62bdbbcfa67e889db3c3e4e870726598"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "ee98faa18e9846f3020f06851f55fac6"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "a5ae0b9a12e459caee036ba2b1d002ea"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "ceb0e94d90c2c33ad7a18790771736f5"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "6e2869f191d6ab4f90b87d3cf4e726dc"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "bca8eaac47a82421752826d8c7c0a66e"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "2c2913af79ec1be5dbd4b597f471e339"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "da801f8df5f4d99dde42d4ed59e5f686"
+}

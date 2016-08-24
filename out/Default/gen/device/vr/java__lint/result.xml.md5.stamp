@@ -1,0 +1,128 @@
+{
+  "input-strings": [
+    "23", 
+    "gen/device/vr/java__lint/config.xml"
+  ], 
+  "files-md5": "8f3ce08539a4b921cf0616d1766df812", 
+  "input-files": [
+    {
+      "path": "../../third_party/android_tools/sdk/tools/lint", 
+      "tag": "666ebed698584a14eb3f3c544d8583fd"
+    }, 
+    {
+      "path": "../../third_party/android_tools/sdk/platform-tools/api/api-versions.xml", 
+      "tag": "ac04ed79e8aa48b84c2110427dcc261c"
+    }, 
+    {
+      "path": "../../build/android/lint/suppressions.xml", 
+      "tag": "38725e6a74ecc214932a5d5a429bd505"
+    }, 
+    {
+      "path": "lib.java/device/vr/java.jar", 
+      "tag": "1dbee22a41b6297e75709055dda4a731", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 4245419769
+        }, 
+        {
+          "path": "org/chromium/device/vr/GvrDeviceProvider.class", 
+          "tag": 771784689
+        }, 
+        {
+          "path": "org/chromium/device/vr/GvrDeviceProvider$1.class", 
+          "tag": 2346308798
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/AndroidManifest.xml", 
+      "tag": "1e268e69507b3046dc16c21132c3d1b3"
+    }, 
+    {
+      "path": "../../device/vr/android/java/src/org/chromium/device/vr/GvrDeviceProvider.java", 
+      "tag": "ef9adc17bbaf55db2b1a65959d55ed45"
+    }, 
+    {
+      "path": "lib.java/base/base_java.interface.jar", 
+      "tag": "03fddfa97f4e599a146028fab81419e6"
+    }, 
+    {
+      "path": "lib.java/third_party/android_protobuf/protobuf_nano_javalib.interface.jar", 
+      "tag": "a9fe7c1a4e4abaefb90ae120a34930b5"
+    }, 
+    {
+      "path": "lib.java/third_party/gvr-android-sdk/gvr_common_java__jar_1.interface.jar", 
+      "tag": "34cf5cd4882b5d78a0dec96e750e8011"
+    }, 
+    {
+      "path": "../../build/android/gyp/lint.py", 
+      "tag": "92384705ab22612f17ffa9523eda46db"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "92ad5273ce9088c21a3c300ba323de11"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "62bdbbcfa67e889db3c3e4e870726598"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "ee98faa18e9846f3020f06851f55fac6"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "a5ae0b9a12e459caee036ba2b1d002ea"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "ceb0e94d90c2c33ad7a18790771736f5"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "6e2869f191d6ab4f90b87d3cf4e726dc"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "bca8eaac47a82421752826d8c7c0a66e"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "2c2913af79ec1be5dbd4b597f471e339"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "d61817b89367267e38783dc761eaa9a7"
+}

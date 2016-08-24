@@ -1,0 +1,12 @@
+{
+  "deps_info": {
+    "deps_configs": [
+      "gen/blimp/client/public/public_headers_java.build_config",
+      "gen/blimp/client/core/dummy_core_java.build_config"
+    ],
+    "name": "public_java.build_config",
+    "path": "gen/blimp/client/public/public_java.build_config",
+    "type": "group"
+  },
+  "gradle": {}
+}

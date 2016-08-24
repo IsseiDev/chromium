@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="4" by="lint 24.4">
+
+    <issue
+        id="WrongConstant"
+        severity="Error"
+        message="Must be one or more of: Context.BIND_AUTO_CREATE, Context.BIND_DEBUG_UNBIND, Context.BIND_NOT_FOREGROUND, Context.BIND_ABOVE_CLIENT, Context.BIND_ALLOW_OOM_MANAGEMENT, Context.BIND_WAIVE_PRIORITY, Context.BIND_IMPORTANT, Context.BIND_ADJUST_WITH_ACTIVITY"
+        category="Security"
+        priority="6"
+        summary="Incorrect constant"
+        explanation="Ensures that when parameter in a method only allows a specific set of constants, calls obey those rules."
+        errorLine1="                    mBound = mContext.bindService(intent, this, mBindFlags);"
+        errorLine2="                                                                ~~~~~~~~~~">
+        <location
+            file="/tmp/tmpqM6ykO/SRC_ROOT1/content/public/android/java/src/org/chromium/content/browser/ChildProcessConnectionImpl.java"
+            line="140"
+            column="65"/>
+    </issue>
+
+</issues>

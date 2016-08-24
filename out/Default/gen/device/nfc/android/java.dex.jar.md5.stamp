@@ -1,0 +1,128 @@
+{
+  "input-strings": [
+    "../../third_party/android_tools/sdk/build-tools/23.0.1/dx", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "gen/device/nfc/android/java.dex.jar"
+  ], 
+  "files-md5": "69204f5d824ecae7f242250c2d0c7468", 
+  "input-files": [
+    {
+      "path": "lib.java/device/nfc/android/java.jar", 
+      "tag": "eba4c9a407eaee7d12e646cca11bacc2", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 4245419769
+        }, 
+        {
+          "path": "org/chromium/device/nfc/NfcImpl$ReaderCallbackHandler.class", 
+          "tag": 2444997172
+        }, 
+        {
+          "path": "org/chromium/device/nfc/NfcTagHandler$NdefFormattableHandler.class", 
+          "tag": 1610834421
+        }, 
+        {
+          "path": "org/chromium/device/nfc/NfcImpl.class", 
+          "tag": 4150408490
+        }, 
+        {
+          "path": "org/chromium/device/nfc/NfcTagHandler.class", 
+          "tag": 359295218
+        }, 
+        {
+          "path": "org/chromium/device/nfc/NfcTagHandler$NdefHandler.class", 
+          "tag": 326513617
+        }, 
+        {
+          "path": "org/chromium/device/nfc/NfcTagHandler$TagTechnologyHandler.class", 
+          "tag": 3081203345
+        }, 
+        {
+          "path": "org/chromium/device/nfc/NfcImpl$PendingPushOperation.class", 
+          "tag": 2486550838
+        }, 
+        {
+          "path": "org/chromium/device/nfc/InvalidNfcMessageException.class", 
+          "tag": 3452362070
+        }, 
+        {
+          "path": "org/chromium/device/nfc/NfcTypeConverter.class", 
+          "tag": 2619354573
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/dex.py", 
+      "tag": "f8d244cadb9dfce772ccee702d38d5e5"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "92ad5273ce9088c21a3c300ba323de11"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "62bdbbcfa67e889db3c3e4e870726598"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "ee98faa18e9846f3020f06851f55fac6"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "a5ae0b9a12e459caee036ba2b1d002ea"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "ceb0e94d90c2c33ad7a18790771736f5"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "6e2869f191d6ab4f90b87d3cf4e726dc"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "bca8eaac47a82421752826d8c7c0a66e"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "2c2913af79ec1be5dbd4b597f471e339"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "62535ccb812c715728fa6c7b18afb46e"
+}

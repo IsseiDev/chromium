@@ -1,0 +1,11 @@
+{
+  "java_libraries_list": "{\"c++_shared\",\"base.cr\"}",
+  "lib_paths": [
+    "../Default/libc++_shared.so",
+    "../Default/libbase.cr.so"
+  ],
+  "libraries": [
+    "libc++_shared.so",
+    "libbase.cr.so"
+  ]
+}

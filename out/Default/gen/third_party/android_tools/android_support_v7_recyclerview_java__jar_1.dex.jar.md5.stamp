@@ -1,0 +1,624 @@
+{
+  "input-strings": [
+    "../../third_party/android_tools/sdk/build-tools/23.0.1/dx", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "gen/third_party/android_tools/android_support_v7_recyclerview_java__jar_1.dex.jar"
+  ], 
+  "files-md5": "99bc406fda97816498b61e79e6198e3f", 
+  "input-files": [
+    {
+      "path": "lib.java/third_party/android_tools/android_support_v7_recyclerview_java__jar_1.jar", 
+      "tag": "3c19688706bc11536397aab01dcd3b19", 
+      "entries": [
+        {
+          "path": "android/support/v7/recyclerview/BuildConfig.class", 
+          "tag": 3981226845
+        }, 
+        {
+          "path": "android/support/v7/widget/StaggeredGridLayoutManager$1.class", 
+          "tag": 3135841560
+        }, 
+        {
+          "path": "android/support/v7/widget/StaggeredGridLayoutManager$2.class", 
+          "tag": 1853158492
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerView$OnScrollListener.class", 
+          "tag": 3354768311
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerView$ChildDrawingOrderCallback.class", 
+          "tag": 2083226716
+        }, 
+        {
+          "path": "android/support/v7/widget/StaggeredGridLayoutManager$AnchorInfo.class", 
+          "tag": 69500786
+        }, 
+        {
+          "path": "android/support/v7/widget/DefaultItemAnimator.class", 
+          "tag": 3756893507
+        }, 
+        {
+          "path": "android/support/v7/widget/DefaultItemAnimator$1.class", 
+          "tag": 1420652086
+        }, 
+        {
+          "path": "android/support/v7/widget/DefaultItemAnimator$ChangeInfo.class", 
+          "tag": 3422726059
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerView$LayoutParams.class", 
+          "tag": 1036298955
+        }, 
+        {
+          "path": "android/support/v7/widget/PositionMap.class", 
+          "tag": 3248097107
+        }, 
+        {
+          "path": "android/support/v7/widget/ChildHelper.class", 
+          "tag": 860371963
+        }, 
+        {
+          "path": "android/support/v7/widget/DefaultItemAnimator$MoveInfo.class", 
+          "tag": 3094612586
+        }, 
+        {
+          "path": "android/support/v7/widget/PositionMap$ContainerHelpers.class", 
+          "tag": 559416230
+        }, 
+        {
+          "path": "android/support/v7/widget/AdapterHelper$Callback.class", 
+          "tag": 3030894057
+        }, 
+        {
+          "path": "android/support/v7/widget/DefaultItemAnimator$7.class", 
+          "tag": 4257549768
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerView$SimpleOnItemTouchListener.class", 
+          "tag": 178656915
+        }, 
+        {
+          "path": "android/support/v7/widget/GridLayoutManager$LayoutParams.class", 
+          "tag": 3543514369
+        }, 
+        {
+          "path": "android/support/v7/widget/GridLayoutManager$DefaultSpanSizeLookup.class", 
+          "tag": 1574369431
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerView$5.class", 
+          "tag": 675705100
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerView$2.class", 
+          "tag": 1482565661
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerView$ItemAnimator$AdapterChanges.class", 
+          "tag": 3516118555
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerView$ItemAnimator$ItemAnimatorListener.class", 
+          "tag": 4179815869
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerView$SmoothScroller.class", 
+          "tag": 2456336479
+        }, 
+        {
+          "path": "android/support/v7/widget/GridLayoutManager$SpanSizeLookup.class", 
+          "tag": 667541326
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerView$AdapterDataObserver.class", 
+          "tag": 1605944625
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerView$ItemDecoration.class", 
+          "tag": 242116617
+        }, 
+        {
+          "path": "android/support/v7/widget/OpReorderer$Callback.class", 
+          "tag": 3176795178
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerView$RecycledViewPool.class", 
+          "tag": 1898258348
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerView$OnItemTouchListener.class", 
+          "tag": 1714644757
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerView$SmoothScroller$Action.class", 
+          "tag": 3899922074
+        }, 
+        {
+          "path": "android/support/v7/widget/ViewInfoStore$ProcessCallback.class", 
+          "tag": 1876534464
+        }, 
+        {
+          "path": "android/support/v7/widget/StaggeredGridLayoutManager$SavedState$1.class", 
+          "tag": 2974100734
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerView$1.class", 
+          "tag": 1794914130
+        }, 
+        {
+          "path": "android/support/v7/widget/DefaultItemAnimator$5.class", 
+          "tag": 629331103
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerView$State.class", 
+          "tag": 1654720384
+        }, 
+        {
+          "path": "android/support/v7/widget/ChildHelper$Callback.class", 
+          "tag": 311794880
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerView$RecyclerListener.class", 
+          "tag": 892472577
+        }, 
+        {
+          "path": "android/support/v7/widget/StaggeredGridLayoutManager$LazySpanLookup$FullSpanItem.class", 
+          "tag": 2344441634
+        }, 
+        {
+          "path": "android/support/v7/widget/DefaultItemAnimator$6.class", 
+          "tag": 1022027823
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerView$ItemAnimator.class", 
+          "tag": 1202434779
+        }, 
+        {
+          "path": "android/support/v7/widget/ViewInfoStore$InfoRecord.class", 
+          "tag": 4011191703
+        }, 
+        {
+          "path": "android/support/v7/widget/LinearLayoutManager.class", 
+          "tag": 2141048135
+        }, 
+        {
+          "path": "android/support/v7/widget/StaggeredGridLayoutManager$LayoutParams.class", 
+          "tag": 4275717769
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerView$LayoutManager.class", 
+          "tag": 369988635
+        }, 
+        {
+          "path": "android/support/v7/widget/LinearLayoutManager$SavedState$1.class", 
+          "tag": 141638059
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerViewAccessibilityDelegate$1.class", 
+          "tag": 362753941
+        }, 
+        {
+          "path": "android/support/v7/widget/GridLayoutManager.class", 
+          "tag": 2198044259
+        }, 
+        {
+          "path": "android/support/v7/widget/DefaultItemAnimator$3.class", 
+          "tag": 2114806151
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerView$LayoutManager$Properties.class", 
+          "tag": 1462945445
+        }, 
+        {
+          "path": "android/support/v7/widget/StaggeredGridLayoutManager$LazySpanLookup.class", 
+          "tag": 760355585
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerView$Adapter.class", 
+          "tag": 4156471152
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerView$ItemAnimator$ItemAnimatorFinishedListener.class", 
+          "tag": 3750765160
+        }, 
+        {
+          "path": "android/support/v7/widget/StaggeredGridLayoutManager$Span.class", 
+          "tag": 1356880751
+        }, 
+        {
+          "path": "android/support/v7/widget/LinearLayoutManager$LayoutState.class", 
+          "tag": 1706823973
+        }, 
+        {
+          "path": "android/support/v7/widget/DefaultItemAnimator$VpaListenerAdapter.class", 
+          "tag": 3520295296
+        }, 
+        {
+          "path": "android/support/v7/widget/DefaultItemAnimator$8.class", 
+          "tag": 3209893559
+        }, 
+        {
+          "path": "android/support/v7/widget/LinearLayoutManager$LayoutChunkResult.class", 
+          "tag": 2856146179
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerView$SavedState$1.class", 
+          "tag": 718332694
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerView$SavedState.class", 
+          "tag": 4185273274
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerView$AdapterDataObservable.class", 
+          "tag": 171199240
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerView$6.class", 
+          "tag": 1551993860
+        }, 
+        {
+          "path": "android/support/v7/widget/AdapterHelper$UpdateOp.class", 
+          "tag": 1657121643
+        }, 
+        {
+          "path": "android/support/v7/widget/util/SortedListAdapterCallback.class", 
+          "tag": 2191629733
+        }, 
+        {
+          "path": "android/support/v7/widget/DefaultItemAnimator$2.class", 
+          "tag": 952326559
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerView$ItemAnimatorRestoreListener.class", 
+          "tag": 2712525735
+        }, 
+        {
+          "path": "android/support/v7/widget/ScrollbarHelper.class", 
+          "tag": 324303209
+        }, 
+        {
+          "path": "android/support/v7/widget/StaggeredGridLayoutManager.class", 
+          "tag": 1498040683
+        }, 
+        {
+          "path": "android/support/v7/widget/LinearSmoothScroller.class", 
+          "tag": 4169304567
+        }, 
+        {
+          "path": "android/support/v7/widget/LinearLayoutManager$1.class", 
+          "tag": 3859287466
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerView$4.class", 
+          "tag": 3191834373
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerView$ItemAnimator$ItemHolderInfo.class", 
+          "tag": 3765424092
+        }, 
+        {
+          "path": "android/support/v7/widget/LayoutState.class", 
+          "tag": 1797920149
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerView$OnChildAttachStateChangeListener.class", 
+          "tag": 168763252
+        }, 
+        {
+          "path": "android/support/v7/widget/helper/ItemTouchHelper$2.class", 
+          "tag": 2646243874
+        }, 
+        {
+          "path": "android/support/v7/widget/helper/ItemTouchUIUtil.class", 
+          "tag": 795101851
+        }, 
+        {
+          "path": "android/support/v7/widget/helper/ItemTouchHelper$RecoverAnimation$1.class", 
+          "tag": 1806739876
+        }, 
+        {
+          "path": "android/support/v7/widget/helper/ItemTouchUIUtilImpl$Honeycomb.class", 
+          "tag": 710868227
+        }, 
+        {
+          "path": "android/support/v7/widget/helper/ItemTouchHelper$4.class", 
+          "tag": 58287916
+        }, 
+        {
+          "path": "android/support/v7/widget/helper/ItemTouchHelper$Callback$1.class", 
+          "tag": 1258081229
+        }, 
+        {
+          "path": "android/support/v7/widget/helper/ItemTouchHelper$Callback.class", 
+          "tag": 5641642
+        }, 
+        {
+          "path": "android/support/v7/widget/helper/ItemTouchHelper.class", 
+          "tag": 938491913
+        }, 
+        {
+          "path": "android/support/v7/widget/helper/ItemTouchHelper$ViewDropHandler.class", 
+          "tag": 2142531791
+        }, 
+        {
+          "path": "android/support/v7/widget/helper/ItemTouchHelper$3.class", 
+          "tag": 4206813844
+        }, 
+        {
+          "path": "android/support/v7/widget/helper/ItemTouchHelper$ItemTouchHelperGestureListener.class", 
+          "tag": 2223482177
+        }, 
+        {
+          "path": "android/support/v7/widget/helper/ItemTouchHelper$5.class", 
+          "tag": 2148227987
+        }, 
+        {
+          "path": "android/support/v7/widget/helper/ItemTouchHelper$SimpleCallback.class", 
+          "tag": 4096796137
+        }, 
+        {
+          "path": "android/support/v7/widget/helper/ItemTouchUIUtilImpl$Gingerbread.class", 
+          "tag": 1218961437
+        }, 
+        {
+          "path": "android/support/v7/widget/helper/ItemTouchUIUtilImpl$Lollipop.class", 
+          "tag": 2148904183
+        }, 
+        {
+          "path": "android/support/v7/widget/helper/ItemTouchHelper$Callback$2.class", 
+          "tag": 343627960
+        }, 
+        {
+          "path": "android/support/v7/widget/helper/ItemTouchHelper$RecoverAnimation.class", 
+          "tag": 1229232895
+        }, 
+        {
+          "path": "android/support/v7/widget/helper/ItemTouchUIUtilImpl.class", 
+          "tag": 3239221820
+        }, 
+        {
+          "path": "android/support/v7/widget/helper/ItemTouchHelper$1.class", 
+          "tag": 294340817
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerView$ViewFlinger.class", 
+          "tag": 1668300491
+        }, 
+        {
+          "path": "android/support/v7/widget/StaggeredGridLayoutManager$SavedState.class", 
+          "tag": 3090826802
+        }, 
+        {
+          "path": "android/support/v7/widget/LinearLayoutManager$AnchorInfo.class", 
+          "tag": 2351871442
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerView$RecyclerViewDataObserver.class", 
+          "tag": 2747942118
+        }, 
+        {
+          "path": "android/support/v7/widget/ViewInfoStore.class", 
+          "tag": 3772242608
+        }, 
+        {
+          "path": "android/support/v7/widget/DefaultItemAnimator$4.class", 
+          "tag": 3941728482
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerView$ViewCacheExtension.class", 
+          "tag": 2124532377
+        }, 
+        {
+          "path": "android/support/v7/widget/SimpleItemAnimator.class", 
+          "tag": 4167015868
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerView$ViewHolder.class", 
+          "tag": 3232592241
+        }, 
+        {
+          "path": "android/support/v7/widget/AdapterHelper.class", 
+          "tag": 524344261
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerView$Recycler.class", 
+          "tag": 1593041668
+        }, 
+        {
+          "path": "android/support/v7/widget/StaggeredGridLayoutManager$LazySpanLookup$FullSpanItem$1.class", 
+          "tag": 3325338255
+        }, 
+        {
+          "path": "android/support/v7/widget/OrientationHelper.class", 
+          "tag": 2944325974
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerView.class", 
+          "tag": 4038982349
+        }, 
+        {
+          "path": "android/support/v7/widget/OrientationHelper$1.class", 
+          "tag": 2319618970
+        }, 
+        {
+          "path": "android/support/v7/widget/ChildHelper$Bucket.class", 
+          "tag": 3715026676
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerView$3.class", 
+          "tag": 3877961158
+        }, 
+        {
+          "path": "android/support/v7/widget/RecyclerViewAccessibilityDelegate.class", 
+          "tag": 2885717606
+        }, 
+        {
+          "path": "android/support/v7/widget/OpReorderer.class", 
+          "tag": 2272467800
+        }, 
+        {
+          "path": "android/support/v7/widget/OrientationHelper$2.class", 
+          "tag": 2507725590
+        }, 
+        {
+          "path": "android/support/v7/widget/LinearLayoutManager$SavedState.class", 
+          "tag": 849572515
+        }, 
+        {
+          "path": "android/support/v7/util/TileList$Tile.class", 
+          "tag": 841807574
+        }, 
+        {
+          "path": "android/support/v7/util/MessageThreadUtil$1.class", 
+          "tag": 3274426073
+        }, 
+        {
+          "path": "android/support/v7/util/AsyncListUtil$DataCallback.class", 
+          "tag": 767150189
+        }, 
+        {
+          "path": "android/support/v7/util/MessageThreadUtil$1$1.class", 
+          "tag": 244396621
+        }, 
+        {
+          "path": "android/support/v7/util/MessageThreadUtil$MessageQueue.class", 
+          "tag": 2321559063
+        }, 
+        {
+          "path": "android/support/v7/util/AsyncListUtil$1.class", 
+          "tag": 1045110626
+        }, 
+        {
+          "path": "android/support/v7/util/ThreadUtil$MainThreadCallback.class", 
+          "tag": 502611049
+        }, 
+        {
+          "path": "android/support/v7/util/MessageThreadUtil$2$1.class", 
+          "tag": 373517923
+        }, 
+        {
+          "path": "android/support/v7/util/AsyncListUtil$2.class", 
+          "tag": 727596378
+        }, 
+        {
+          "path": "android/support/v7/util/ThreadUtil.class", 
+          "tag": 141564511
+        }, 
+        {
+          "path": "android/support/v7/util/AsyncListUtil$ViewCallback.class", 
+          "tag": 3156631778
+        }, 
+        {
+          "path": "android/support/v7/util/ThreadUtil$BackgroundCallback.class", 
+          "tag": 3216660163
+        }, 
+        {
+          "path": "android/support/v7/util/MessageThreadUtil.class", 
+          "tag": 3627269003
+        }, 
+        {
+          "path": "android/support/v7/util/SortedList$Callback.class", 
+          "tag": 1279507437
+        }, 
+        {
+          "path": "android/support/v7/util/SortedList.class", 
+          "tag": 4193051459
+        }, 
+        {
+          "path": "android/support/v7/util/MessageThreadUtil$SyncQueueItem.class", 
+          "tag": 3085930735
+        }, 
+        {
+          "path": "android/support/v7/util/SortedList$BatchedCallback.class", 
+          "tag": 4160758615
+        }, 
+        {
+          "path": "android/support/v7/util/MessageThreadUtil$2.class", 
+          "tag": 3202742942
+        }, 
+        {
+          "path": "android/support/v7/util/AsyncListUtil.class", 
+          "tag": 859922446
+        }, 
+        {
+          "path": "android/support/v7/util/TileList.class", 
+          "tag": 570885361
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/dex.py", 
+      "tag": "f8d244cadb9dfce772ccee702d38d5e5"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "92ad5273ce9088c21a3c300ba323de11"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "62bdbbcfa67e889db3c3e4e870726598"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "ee98faa18e9846f3020f06851f55fac6"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "a5ae0b9a12e459caee036ba2b1d002ea"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "ceb0e94d90c2c33ad7a18790771736f5"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "6e2869f191d6ab4f90b87d3cf4e726dc"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "bca8eaac47a82421752826d8c7c0a66e"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "2c2913af79ec1be5dbd4b597f471e339"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "d8159d270d33bb80bae433fb2edf144d"
+}

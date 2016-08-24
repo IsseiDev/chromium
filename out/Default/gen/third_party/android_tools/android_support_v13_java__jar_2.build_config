@@ -1,0 +1,49 @@
+{
+  "deps_info": {
+    "deps_configs": [
+      "gen/third_party/android_tools/android_support_annotations_java.build_config",
+      "gen/third_party/android_tools/android_support_v4_java__jar_1.build_config",
+      "gen/third_party/android_tools/android_support_v4_java__jar_2.build_config"
+    ],
+    "dex_path": "gen/third_party/android_tools/android_support_v13_java__jar_2.dex.jar",
+    "is_prebuilt": true,
+    "jar_path": "lib.java/third_party/android_tools/android_support_v13_java__jar_2.jar",
+    "java": {
+      "full_classpath": [
+        "lib.java/third_party/android_tools/android_support_v4_java__jar_2.jar",
+        "lib.java/third_party/android_tools/android_support_annotations_java.jar",
+        "lib.java/third_party/android_tools/android_support_v4_java__jar_1.jar"
+      ]
+    },
+    "name": "android_support_v13_java__jar_2.build_config",
+    "owned_resources_dirs": [],
+    "owned_resources_zips": [],
+    "path": "gen/third_party/android_tools/android_support_v13_java__jar_2.build_config",
+    "requires_android": true,
+    "supports_android": true,
+    "type": "java_library"
+  },
+  "gradle": {
+    "dependent_android_projects": [],
+    "dependent_java_projects": [],
+    "dependent_prebuilt_jars": [
+      "lib.java/third_party/android_tools/android_support_annotations_java.jar",
+      "lib.java/third_party/android_tools/android_support_v4_java__jar_1.jar",
+      "lib.java/third_party/android_tools/android_support_v4_java__jar_2.jar"
+    ]
+  },
+  "javac": {
+    "classpath": [
+      "lib.java/third_party/android_tools/android_support_annotations_java.jar",
+      "lib.java/third_party/android_tools/android_support_v4_java__jar_1.jar",
+      "lib.java/third_party/android_tools/android_support_v4_java__jar_2.jar"
+    ],
+    "interface_classpath": [
+      "lib.java/third_party/android_tools/android_support_annotations_java.interface.jar",
+      "lib.java/third_party/android_tools/android_support_v4_java__jar_1.interface.jar",
+      "lib.java/third_party/android_tools/android_support_v4_java__jar_2.interface.jar"
+    ],
+    "resource_packages": [],
+    "srcjars": []
+  }
+}

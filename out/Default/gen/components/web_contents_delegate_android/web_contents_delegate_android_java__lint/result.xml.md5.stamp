@@ -1,0 +1,192 @@
+{
+  "input-strings": [
+    "23", 
+    "gen/components/web_contents_delegate_android/web_contents_delegate_android_java__lint/config.xml"
+  ], 
+  "files-md5": "5481f8c6cc0a915869dfe3bd576ea8ee", 
+  "input-files": [
+    {
+      "path": "../../third_party/android_tools/sdk/tools/lint", 
+      "tag": "666ebed698584a14eb3f3c544d8583fd"
+    }, 
+    {
+      "path": "../../third_party/android_tools/sdk/platform-tools/api/api-versions.xml", 
+      "tag": "ac04ed79e8aa48b84c2110427dcc261c"
+    }, 
+    {
+      "path": "../../build/android/lint/suppressions.xml", 
+      "tag": "38725e6a74ecc214932a5d5a429bd505"
+    }, 
+    {
+      "path": "lib.java/components/web_contents_delegate_android/web_contents_delegate_android_java.jar", 
+      "tag": "f86ee0510f54c56780be5e573e32eb39", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 4245419769
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/WebContentsDelegateAndroid.class", 
+          "tag": 3490238072
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/ValidationMessageBubble.class", 
+          "tag": 618237165
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/ColorChooserAndroid.class", 
+          "tag": 2749452529
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/ColorChooserAndroid$1.class", 
+          "tag": 853291289
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/AndroidManifest.xml", 
+      "tag": "1e268e69507b3046dc16c21132c3d1b3"
+    }, 
+    {
+      "path": "../../components/web_contents_delegate_android/android/java/src/org/chromium/components/web_contents_delegate_android/ColorChooserAndroid.java", 
+      "tag": "3686db0ce4464f5d5032e6a6fe035fa1"
+    }, 
+    {
+      "path": "../../components/web_contents_delegate_android/android/java/src/org/chromium/components/web_contents_delegate_android/ValidationMessageBubble.java", 
+      "tag": "33ac42b853ed530603b5b33e705e8b2e"
+    }, 
+    {
+      "path": "../../components/web_contents_delegate_android/android/java/src/org/chromium/components/web_contents_delegate_android/WebContentsDelegateAndroid.java", 
+      "tag": "b48836f40d3c9c7b8884d0e09511935a"
+    }, 
+    {
+      "path": "lib.java/base/base_java.interface.jar", 
+      "tag": "03fddfa97f4e599a146028fab81419e6"
+    }, 
+    {
+      "path": "lib.java/content/public/android/content_java.interface.jar", 
+      "tag": "fcc95a56bc4a99ae8e98456322ea729c"
+    }, 
+    {
+      "path": "lib.java/ui/android/ui_java.interface.jar", 
+      "tag": "b6136b3772a2dc66036c5376b4e1a916"
+    }, 
+    {
+      "path": "../../components/web_contents_delegate_android/android/java/res/drawable-xxhdpi/ic_warning.png", 
+      "tag": "f0660c9bf1fca09ad42a9e27415ec7c6"
+    }, 
+    {
+      "path": "../../components/web_contents_delegate_android/android/java/res/drawable-mdpi/bubble_arrow_up.png", 
+      "tag": "9d4d6c2799feec4e2a6696c23f5d79c2"
+    }, 
+    {
+      "path": "../../components/web_contents_delegate_android/android/java/res/drawable-mdpi/bubble.9.png", 
+      "tag": "594479d3c298711f6fb3bddec5b4759e"
+    }, 
+    {
+      "path": "../../components/web_contents_delegate_android/android/java/res/drawable-mdpi/ic_warning.png", 
+      "tag": "5a0d26963a4b612203fbbaa18cc69ff8"
+    }, 
+    {
+      "path": "../../components/web_contents_delegate_android/android/java/res/drawable-hdpi/bubble_arrow_up.png", 
+      "tag": "cdcfbdaacc27ffdbf12f9bae8899f59a"
+    }, 
+    {
+      "path": "../../components/web_contents_delegate_android/android/java/res/drawable-hdpi/bubble.9.png", 
+      "tag": "8fdf63d338e870ff053cb5e501535b71"
+    }, 
+    {
+      "path": "../../components/web_contents_delegate_android/android/java/res/drawable-hdpi/ic_warning.png", 
+      "tag": "2fe7effd66dda9863252ebfa67099262"
+    }, 
+    {
+      "path": "../../components/web_contents_delegate_android/android/java/res/layout/validation_message_bubble.xml", 
+      "tag": "e040a7df481e04e75ad2e3ff35261b87"
+    }, 
+    {
+      "path": "../../components/web_contents_delegate_android/android/java/res/drawable-xxxhdpi/ic_warning.png", 
+      "tag": "27494eb32c18bc47eb2abb28968cbb83"
+    }, 
+    {
+      "path": "../../components/web_contents_delegate_android/android/java/res/drawable-xhdpi/bubble_arrow_up.png", 
+      "tag": "ed0a77868fa8ab04b84b40c2ed8d486a"
+    }, 
+    {
+      "path": "../../components/web_contents_delegate_android/android/java/res/drawable-xhdpi/bubble.9.png", 
+      "tag": "76333ea16618931563f205eafb6b3bde"
+    }, 
+    {
+      "path": "../../components/web_contents_delegate_android/android/java/res/drawable-xhdpi/ic_warning.png", 
+      "tag": "f92de0900f6585125596033bf89a4595"
+    }, 
+    {
+      "path": "../../build/android/gyp/lint.py", 
+      "tag": "92384705ab22612f17ffa9523eda46db"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "92ad5273ce9088c21a3c300ba323de11"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "62bdbbcfa67e889db3c3e4e870726598"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "ee98faa18e9846f3020f06851f55fac6"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "a5ae0b9a12e459caee036ba2b1d002ea"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "ceb0e94d90c2c33ad7a18790771736f5"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "6e2869f191d6ab4f90b87d3cf4e726dc"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "bca8eaac47a82421752826d8c7c0a66e"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "2c2913af79ec1be5dbd4b597f471e339"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "56f3ca7424172826c07336c9995cdc45"
+}

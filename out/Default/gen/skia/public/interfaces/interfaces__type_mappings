@@ -1,0 +1,28 @@
+{
+  "c++": {
+    "skia.mojom.Bitmap": {
+      "typename": "SkBitmap", 
+      "traits_headers": [
+        "skia/public/interfaces/bitmap_skbitmap_struct_traits.h"
+      ], 
+      "copyable_pass_by_value": false, 
+      "move_only": false, 
+      "nullable_is_same_type": true, 
+      "public_headers": [
+        "third_party/skia/include/core/SkBitmap.h"
+      ]
+    }, 
+    "skia.mojom.ImageFilter": {
+      "typename": "sk_sp<SkImageFilter>", 
+      "traits_headers": [
+        "skia/public/interfaces/image_filter_struct_traits.h"
+      ], 
+      "copyable_pass_by_value": false, 
+      "move_only": false, 
+      "nullable_is_same_type": false, 
+      "public_headers": [
+        "third_party/skia/include/core/SkImageFilter.h"
+      ]
+    }
+  }
+}

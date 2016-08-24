@@ -1,0 +1,545 @@
+{
+  "input-strings": [
+    "javac", 
+    "-g", 
+    "-encoding", 
+    "UTF-8", 
+    "-classpath", 
+    "lib.java/third_party/cacheinvalidation/cacheinvalidation_proto_java.interface.jar:lib.java/third_party/android_protobuf/protobuf_nano_javalib.interface.jar:lib.java/third_party/android_tools/android_gcm_java.interface.jar:lib.java/third_party/android_tools/google_play_services_default_java.interface.jar", 
+    "-sourcepath", 
+    "", 
+    "-bootclasspath", 
+    "lib.java/android.interface.jar", 
+    "-source", 
+    "1.7", 
+    "-target", 
+    "1.7", 
+    "-XDignore.symbol.file"
+  ], 
+  "files-md5": "04d9bd059bbeb3f8e5c45c9e32d1faad", 
+  "input-files": [
+    {
+      "path": "lib.java/android.interface.jar", 
+      "tag": "5fa862de0d5afd817ca1133be562b120"
+    }, 
+    {
+      "path": "lib.java/third_party/cacheinvalidation/cacheinvalidation_proto_java.interface.jar", 
+      "tag": "4c18beed668d5f59a9d560e54f44c189"
+    }, 
+    {
+      "path": "lib.java/third_party/android_protobuf/protobuf_nano_javalib.interface.jar", 
+      "tag": "a9fe7c1a4e4abaefb90ae120a34930b5"
+    }, 
+    {
+      "path": "lib.java/third_party/android_tools/android_gcm_java.interface.jar", 
+      "tag": "5bcc02cf0d690539cb32c5662e60dbf0"
+    }, 
+    {
+      "path": "lib.java/third_party/android_tools/google_play_services_default_java.interface.jar", 
+      "tag": "4738d8852cf3ffaa78df7fa27cfca41f"
+    }, 
+    {
+      "path": "gen/third_party/android_tools/android_support_v7_mediarouter_java__res.srcjar", 
+      "tag": "9b33d59c76f45cfcd6f4de3b07875b8e", 
+      "entries": [
+        {
+          "path": "android/support/v7/mediarouter/R.java", 
+          "tag": 1721200925
+        }
+      ]
+    }, 
+    {
+      "path": "gen/third_party/android_tools/google_play_services_default_resources.srcjar", 
+      "tag": "a548ec417e15b774f3b40137d07b3357", 
+      "entries": [
+        {
+          "path": "com/google/android/gms/R.java", 
+          "tag": 2171899945
+        }
+      ]
+    }, 
+    {
+      "path": "gen/third_party/android_tools/android_support_v7_appcompat_java_internal__res.srcjar", 
+      "tag": "26404f419f5f815ce190a1e8c2eeb0a8", 
+      "entries": [
+        {
+          "path": "android/support/v7/appcompat/R.java", 
+          "tag": 3254852892
+        }
+      ]
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/common/BaseCommonInvalidationConstants.java", 
+      "tag": "3fdfe3543d7e1ca7f3b4c55e50e48197"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/common/BuildConstants.java", 
+      "tag": "a350bbe835467e81b9f9cf5c2d39fcdb"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/common/DigestFunction.java", 
+      "tag": "784fbf0871882d8965571b4144d6880f"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/common/GcmSharedConstants.java", 
+      "tag": "0e6de1f72e773ecc198ef4755df02bc6"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/common/ObjectIdDigestUtils.java", 
+      "tag": "b661c6f5d5ac4169a249262ff5bf1de5"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/external/client/InvalidationClient.java", 
+      "tag": "03e6bb29340900cd73d10f88ddff1ad4"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/external/client/InvalidationClientConfig.java", 
+      "tag": "c6fa1d9a7ee39e4e2c737b98db52591a"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/external/client/InvalidationClientFactory.java", 
+      "tag": "3b1bee77cb22c893fa9552c02a17767f"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/external/client/InvalidationListener.java", 
+      "tag": "c0677bf6a2d8ec11ef7398ddc56016b2"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/external/client/SystemResources.java", 
+      "tag": "03c59a3e083496905b2b6b731c76bec2"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/external/client/SystemResourcesBuilder.java", 
+      "tag": "6a83e55ca10111c75b71c815a5370db3"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/external/client/android/service/AndroidLogger.java", 
+      "tag": "42b8443457494abf2507fd5c7cfb7e85"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/external/client/android2/AndroidClientFactory.java", 
+      "tag": "c991846ba3db68a4bb51eeade2c81275"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/external/client/contrib/AndroidListener.java", 
+      "tag": "b37da333efa0c184285d1907d9a1da7a"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/external/client/contrib/AndroidListenerIntents.java", 
+      "tag": "6543beb6dfc1b4afe22bd793da52b5f0"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/external/client/contrib/AndroidListenerProtos.java", 
+      "tag": "b6f8cc33c7f3fb697919542dcfa7e741"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/external/client/contrib/AndroidListenerState.java", 
+      "tag": "ae717cca5b2ce1777a0cc5c54d7527e5"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/external/client/contrib/MultiplexingGcmListener.java", 
+      "tag": "9916eb3080b9d57836d21d1e88793d0d"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/external/client/types/AckHandle.java", 
+      "tag": "8c09e9224cb54fb641da5cf6eaa8e990"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/external/client/types/ApplicationClientId.java", 
+      "tag": "8d154b11af2338a383a619fdbaf38490"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/external/client/types/BytesFormatter.java", 
+      "tag": "0ecb6c89a4d001c61d139f00e302286d"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/external/client/types/Callback.java", 
+      "tag": "f6547437b0fb94ce9c9985a97d9d2f9e"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/external/client/types/ErrorContext.java", 
+      "tag": "39ab70a4c6a5c3581df6f87d90538a4c"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/external/client/types/ErrorInfo.java", 
+      "tag": "e2fb734db8fe2cf24edcea535eec16d8"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/external/client/types/Invalidation.java", 
+      "tag": "375b43f0abb149fe6fd26bd5a32de873"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/external/client/types/ObjectId.java", 
+      "tag": "b3079abf9fb6295035ba1b1425e48b31"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/external/client/types/SimplePair.java", 
+      "tag": "6bbb710dc08183b3b6aaf24e6cf10d16"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/external/client/types/Status.java", 
+      "tag": "51e059bb21fcdfe5b5bfc532f0967f18"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/AckCache.java", 
+      "tag": "baccc8e1009d9d33ad37c2c82b5d5051"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/BasicSystemResources.java", 
+      "tag": "04a97c31854a602f04927206d450e2f6"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/CheckingInvalidationListener.java", 
+      "tag": "90c484e53c906d767e082ddd650e32f5"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/DigestStore.java", 
+      "tag": "b2c269f6a3a1080b155cf0de06cf10f7"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/InvalidationClientCore.java", 
+      "tag": "024fc9a0e2e1705c16055c4cfd0570a6"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/InvalidationClientImpl.java", 
+      "tag": "202cf18110736d9dd8c96d0929a1f24d"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/MemoryStorageImpl.java", 
+      "tag": "76b81fe1b45c962b49eba40ff5a65a57"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/PersistenceUtils.java", 
+      "tag": "7e31369658096a7c59ae079490390840"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/ProtoWrapperConverter.java", 
+      "tag": "3c15d2a9f218fa6a5715c16cc21b7762"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/ProtocolHandler.java", 
+      "tag": "40fd029c3f8c80b2180b00eec94516d0"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/RecurringTask.java", 
+      "tag": "37809f852611e1380dc9ad36b9f4f115"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/RegistrationManager.java", 
+      "tag": "8c0ea1214da341793346f82e3a905db1"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/RunState.java", 
+      "tag": "e54b74e03a7bd9b1e7e053a6619c8ea0"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/SafeStorage.java", 
+      "tag": "ff5ff1e3d936acd573b3b9a7e0e09123"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/SimpleRegistrationStore.java", 
+      "tag": "c15169b2666613ea301aa954b6482cfd"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/Statistics.java", 
+      "tag": "95854fddd5f3eb3b2214711c05943e7a"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/TestableInvalidationClient.java", 
+      "tag": "6b4339261e007ae897b71dca9402bf89"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/TestableNetworkChannel.java", 
+      "tag": "0520a429047dfe9a75150b7d87a5d679"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/TiclExponentialBackoffDelayGenerator.java", 
+      "tag": "c94805682606cfdc3d4e5aa39dc427fe"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/android2/AndroidClock.java", 
+      "tag": "dfc66ca1b7e822294bf21e2e2f992a34"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/android2/AndroidInternalScheduler.java", 
+      "tag": "13d26f72d8f4587588153ac955a38eb2"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/android2/AndroidInvalidationClientImpl.java", 
+      "tag": "a7664add03618b6a888e9135fe150792"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/android2/AndroidInvalidationClientStub.java", 
+      "tag": "9990d54de4d26c9d6da51b89acf1c389"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/android2/AndroidInvalidationListenerIntentMapper.java", 
+      "tag": "88d556ddada9028827df53c3cb678b34"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/android2/AndroidInvalidationListenerStub.java", 
+      "tag": "ea03180f685fbd85fc66fabbe77e6558"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/android2/AndroidStorage.java", 
+      "tag": "a7b5f8d50cdbb8dfc4bac6817edeedde"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/android2/AndroidTiclManifest.java", 
+      "tag": "365fe8f81fae89c8bd82dd08a071884b"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/android2/ProtocolIntents.java", 
+      "tag": "abe219ef2b3b75e93cb405eb73221ec1"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/android2/ResourcesFactory.java", 
+      "tag": "cc10d3c551aa9ef20d74e4a50405e66b"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/android2/TiclService.java", 
+      "tag": "9ef08396aed4bb373ee99d93b63ed762"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/android2/TiclStateManager.java", 
+      "tag": "1fde366428cca47e804bbd40fed78c18"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/android2/WakeLockManager.java", 
+      "tag": "6f11369c904666892d0214802962564e"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/android2/channel/AndroidChannelConstants.java", 
+      "tag": "9c94f4deebac410ec619b43393dc0202"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/android2/channel/AndroidChannelPreferences.java", 
+      "tag": "af321aeaa852cd0eded1658b615cb3ca"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/android2/channel/AndroidGcmController.java", 
+      "tag": "02de202ca31b2146a7150720ba240a4b"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/android2/channel/AndroidInstanceIDListenerService.java", 
+      "tag": "81075188b897599ef6753b75eecaebfb"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/android2/channel/AndroidMessageReceiverService.java", 
+      "tag": "927435440b1f2378693b19f99e6d4362"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/android2/channel/AndroidMessageSenderService.java", 
+      "tag": "44a9839f5e55674d42bebfdccb71c2d0"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/android2/channel/AndroidNetworkChannel.java", 
+      "tag": "f11e04583cbb7fd97b18682cca063956"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/android2/channel/CommonUtils.java", 
+      "tag": "760161fb85dbd991eda9ba7f76957030"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/android2/channel/GcmRegistrationTaskService.java", 
+      "tag": "baae10dd50c8aa81eb0bc7a61a870297"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/android2/channel/GcmUpstreamSenderService.java", 
+      "tag": "276c25d67b472e74459200eb99d88bd5"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/proto/AndroidChannel.java", 
+      "tag": "3a150e6e4b9d657e9e525b0ef133552e"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/proto/AndroidListenerProtocol.java", 
+      "tag": "c42726d34ca6d72dc43c480dfcd6cf26"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/proto/AndroidService.java", 
+      "tag": "15c643de1bae17521b99fa52efb63361"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/proto/ChannelCommon.java", 
+      "tag": "f563fab8e04ae488fa4173453134682b"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/proto/Client.java", 
+      "tag": "fe8c4a8f8cf6ef89013e4e7e2b152a87"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/proto/ClientConstants.java", 
+      "tag": "cedf7f165f7ca5d5082ab31af95a785a"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/proto/ClientProtocol.java", 
+      "tag": "0540f8222755927067ac7c028cd72a71"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/proto/CommonProtos.java", 
+      "tag": "afeb073ab2499f303f4b88d46285dfe4"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/ticl/proto/JavaClient.java", 
+      "tag": "5ef5de0b19cb74fd0c34e94c7023f9f3"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/util/BaseLogger.java", 
+      "tag": "23d30ebe8cb72e87c8c0257c60990227"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/util/Box.java", 
+      "tag": "23efefa37e9025db4c7721793227c9e9"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/util/Bytes.java", 
+      "tag": "b13cfcc9f0ea722961e4fe8e5d4609bc"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/util/ExponentialBackoffDelayGenerator.java", 
+      "tag": "f085439ca07b890edbd9bcd944619518"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/util/Formatter.java", 
+      "tag": "50c0c5dfec114d95928eacec0b8419df"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/util/InternalBase.java", 
+      "tag": "1896de11dcda457a6f992c07f1189a83"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/util/LazyString.java", 
+      "tag": "592dbc36b5c1e7085f1588c4073fcb63"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/util/Marshallable.java", 
+      "tag": "4681642aac60d9e19d24acda282f0e9e"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/util/NamedRunnable.java", 
+      "tag": "35174ebf5698d5c04bdbc4573b3fba64"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/util/Preconditions.java", 
+      "tag": "7a5bcdadfa407a4a5089aefaea303c2a"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/util/ProtoWrapper.java", 
+      "tag": "cc0291e689b19b7311154d396dbd3ec9"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/util/Smearer.java", 
+      "tag": "5697a4506a550991670df92a54cd8521"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/util/TextBuilder.java", 
+      "tag": "eb42438b47cd1eac1b6a936b998a0ae6"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/util/TypedUtil.java", 
+      "tag": "23dc2af555cc001f8a9630601857be08"
+    }, 
+    {
+      "path": "../../third_party/cacheinvalidation/src/java/com/google/ipc/invalidation/util/UtilFormatter.java", 
+      "tag": "32de1a228c172224e44c6c0581101750"
+    }, 
+    {
+      "path": "../../build/android/gyp/jar.py", 
+      "tag": "e852388bb0071020ffd36a3621c1b7e9"
+    }, 
+    {
+      "path": "../../build/android/gyp/javac.py", 
+      "tag": "7255fc6363fc47e605a4c65bb6ec9ec5"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "92ad5273ce9088c21a3c300ba323de11"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "62bdbbcfa67e889db3c3e4e870726598"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "ee98faa18e9846f3020f06851f55fac6"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "a5ae0b9a12e459caee036ba2b1d002ea"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "ceb0e94d90c2c33ad7a18790771736f5"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "6e2869f191d6ab4f90b87d3cf4e726dc"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "bca8eaac47a82421752826d8c7c0a66e"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "2c2913af79ec1be5dbd4b597f471e339"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }, 
+    {
+      "path": "../../third_party/colorama/src/colorama/__init__.py", 
+      "tag": "de647b90a4b99c279f3e4e358ea39b3e"
+    }, 
+    {
+      "path": "../../third_party/colorama/src/colorama/ansi.py", 
+      "tag": "3ad189643bf1b70eb5be73153569c26c"
+    }, 
+    {
+      "path": "../../third_party/colorama/src/colorama/ansitowin32.py", 
+      "tag": "9b39fc8f8d1af5b00161ed93f037176b"
+    }, 
+    {
+      "path": "../../third_party/colorama/src/colorama/initialise.py", 
+      "tag": "91141f9b74377895dae6f33b6de5cca8"
+    }, 
+    {
+      "path": "../../third_party/colorama/src/colorama/win32.py", 
+      "tag": "e6ef5597c899deefd23e628b209763dd"
+    }, 
+    {
+      "path": "../../third_party/colorama/src/colorama/winterm.py", 
+      "tag": "9d0c650cd287ccf58d29894feec2178f"
+    }
+  ], 
+  "strings-md5": "ef1954c9f4210878c75c2820931f2d19"
+}

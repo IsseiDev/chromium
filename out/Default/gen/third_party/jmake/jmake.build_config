@@ -1,0 +1,25 @@
+{
+  "deps_info": {
+    "deps_configs": [],
+    "jar_path": "lib.java/third_party/jmake/jmake.jar",
+    "java": {
+      "full_classpath": []
+    },
+    "name": "jmake.build_config",
+    "path": "gen/third_party/jmake/jmake.build_config",
+    "requires_android": null,
+    "supports_android": null,
+    "type": "java_binary"
+  },
+  "gradle": {
+    "dependent_android_projects": [],
+    "dependent_java_projects": [],
+    "dependent_prebuilt_jars": [],
+    "java_sources_file": "gen/third_party/jmake/jmake.sources"
+  },
+  "javac": {
+    "classpath": [],
+    "interface_classpath": [],
+    "srcjars": []
+  }
+}

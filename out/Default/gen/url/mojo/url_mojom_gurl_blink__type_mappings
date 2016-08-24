@@ -1,0 +1,16 @@
+{
+  "c++": {
+    "url.mojom.Url": {
+      "typename": "::blink::KURL", 
+      "traits_headers": [
+        "third_party/WebKit/Source/platform/mojo/KURLStructTraits.h"
+      ], 
+      "copyable_pass_by_value": false, 
+      "move_only": false, 
+      "nullable_is_same_type": false, 
+      "public_headers": [
+        "third_party/WebKit/Source/platform/weborigin/KURL.h"
+      ]
+    }
+  }
+}
