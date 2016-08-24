@@ -1,1 +1,0 @@
-gen/chrome/invalidations_resources_stamp.d.stamp: ./../../chrome/browser/resources/about_invalidations.css ./../../chrome/browser/resources/about_invalidations.html ./../../chrome/browser/resources/about_invalidations.js ./../../tools/gritsettings/resource_ids

@@ -1,1 +1,0 @@
-gen/chrome/policy_resources_stamp.d.stamp: ./../../chrome/browser/resources/md_policy/md_policy.html ./../../tools/gritsettings/resource_ids
