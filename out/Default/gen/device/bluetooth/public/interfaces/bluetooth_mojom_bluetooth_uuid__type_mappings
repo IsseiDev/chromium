@@ -1,0 +1,17 @@
+{
+  "c++": {
+    "device.mojom.BluetoothUUID": {
+      "typename": "base::Optional<device::BluetoothUUID>", 
+      "traits_headers": [
+        "device/bluetooth/public/interfaces/bluetooth_uuid_struct_traits.h"
+      ], 
+      "copyable_pass_by_value": false, 
+      "move_only": false, 
+      "nullable_is_same_type": true, 
+      "public_headers": [
+        "base/optional.h", 
+        "device/bluetooth/bluetooth_uuid.h"
+      ]
+    }
+  }
+}

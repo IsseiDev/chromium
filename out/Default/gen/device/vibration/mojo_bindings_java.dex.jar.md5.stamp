@@ -1,0 +1,156 @@
+{
+  "input-strings": [
+    "../../third_party/android_tools/sdk/build-tools/23.0.1/dx", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "gen/device/vibration/mojo_bindings_java.dex.jar"
+  ], 
+  "files-md5": "992806369eb347a8d094ddfa5a3e1f96", 
+  "input-files": [
+    {
+      "path": "lib.java/device/vibration/mojo_bindings_java.jar", 
+      "tag": "b56b13c6fd2dabbec2902ca1faefceac", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 4245419769
+        }, 
+        {
+          "path": "org/chromium/mojom/device/VibrationManager_Internal$VibrationManagerVibrateResponseParamsForwardToCallback.class", 
+          "tag": 3994672362
+        }, 
+        {
+          "path": "org/chromium/mojom/device/VibrationManager$VibrateResponse.class", 
+          "tag": 196275541
+        }, 
+        {
+          "path": "org/chromium/mojom/device/VibrationManager_Internal$VibrationManagerVibrateParams.class", 
+          "tag": 2712431806
+        }, 
+        {
+          "path": "org/chromium/mojom/device/VibrationManager_Internal$VibrationManagerVibrateResponseParamsProxyToResponder.class", 
+          "tag": 1313186832
+        }, 
+        {
+          "path": "org/chromium/mojom/device/VibrationManager_Internal$VibrationManagerCancelResponseParamsForwardToCallback.class", 
+          "tag": 2501945735
+        }, 
+        {
+          "path": "org/chromium/mojom/device/VibrationManager$CancelResponse.class", 
+          "tag": 2978854536
+        }, 
+        {
+          "path": "org/chromium/mojom/device/VibrationManager_Internal$VibrationManagerCancelResponseParamsProxyToResponder.class", 
+          "tag": 2908711298
+        }, 
+        {
+          "path": "org/chromium/mojom/device/VibrationManager_Internal$Proxy.class", 
+          "tag": 1477612455
+        }, 
+        {
+          "path": "org/chromium/mojom/device/VibrationManager_Internal$1.class", 
+          "tag": 178663031
+        }, 
+        {
+          "path": "org/chromium/mojom/device/VibrationManager_Internal$Stub.class", 
+          "tag": 2888528739
+        }, 
+        {
+          "path": "org/chromium/mojom/device/VibrationManager.class", 
+          "tag": 1898050758
+        }, 
+        {
+          "path": "org/chromium/mojom/device/VibrationManager_Internal$VibrationManagerVibrateResponseParams.class", 
+          "tag": 3161042963
+        }, 
+        {
+          "path": "org/chromium/mojom/device/VibrationManager_Internal$VibrationManagerCancelResponseParams.class", 
+          "tag": 877378507
+        }, 
+        {
+          "path": "org/chromium/mojom/device/VibrationManager_Internal$VibrationManagerCancelParams.class", 
+          "tag": 2940363997
+        }, 
+        {
+          "path": "org/chromium/mojom/device/VibrationManager$Proxy.class", 
+          "tag": 2965272624
+        }, 
+        {
+          "path": "org/chromium/mojom/device/VibrationManager_Internal.class", 
+          "tag": 156260405
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/dex.py", 
+      "tag": "f8d244cadb9dfce772ccee702d38d5e5"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "92ad5273ce9088c21a3c300ba323de11"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "62bdbbcfa67e889db3c3e4e870726598"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "ee98faa18e9846f3020f06851f55fac6"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "a5ae0b9a12e459caee036ba2b1d002ea"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "ceb0e94d90c2c33ad7a18790771736f5"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "6e2869f191d6ab4f90b87d3cf4e726dc"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "bca8eaac47a82421752826d8c7c0a66e"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "2c2913af79ec1be5dbd4b597f471e339"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "099531dc8e836bdd9d56335e65abdf92"
+}

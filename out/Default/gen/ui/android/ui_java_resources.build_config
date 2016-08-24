@@ -1,0 +1,25 @@
+{
+  "deps_info": {
+    "deps_configs": [
+      "gen/ui/android/ui_strings_grd.build_config"
+    ],
+    "name": "ui_java_resources.build_config",
+    "package_name": "org.chromium.ui",
+    "path": "gen/ui/android/ui_java_resources.build_config",
+    "r_text": "gen/ui/android/ui_java_resources_R.txt",
+    "resources_dirs": [
+      "../../ui/android/java/res"
+    ],
+    "resources_zip": "gen/ui/android/ui_java_resources.resources.zip",
+    "srcjar": "gen/ui/android/ui_java_resources.srcjar",
+    "type": "android_resources"
+  },
+  "gradle": {},
+  "resources": {
+    "dependency_zips": [
+      "gen/ui/android/ui_strings_grd.resources.zip"
+    ],
+    "extra_package_names": [],
+    "extra_r_text_files": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "deps_info": {
+    "deps_configs": [],
+    "dex_path": "gen/third_party/android_tools/android_support_annotations_java.dex.jar",
+    "is_prebuilt": true,
+    "jar_path": "lib.java/third_party/android_tools/android_support_annotations_java.jar",
+    "java": {
+      "full_classpath": []
+    },
+    "name": "android_support_annotations_java.build_config",
+    "owned_resources_dirs": [],
+    "owned_resources_zips": [],
+    "path": "gen/third_party/android_tools/android_support_annotations_java.build_config",
+    "requires_android": true,
+    "supports_android": true,
+    "type": "java_library"
+  },
+  "gradle": {
+    "dependent_android_projects": [],
+    "dependent_java_projects": [],
+    "dependent_prebuilt_jars": []
+  },
+  "javac": {
+    "classpath": [],
+    "interface_classpath": [],
+    "resource_packages": [],
+    "srcjars": []
+  }
+}

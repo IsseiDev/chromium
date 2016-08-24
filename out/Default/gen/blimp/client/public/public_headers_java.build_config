@@ -1,0 +1,43 @@
+{
+  "deps_info": {
+    "deps_configs": [
+      "gen/third_party/android_tools/android_support_annotations_java.build_config"
+    ],
+    "dex_path": "gen/blimp/client/public/public_headers_java.dex.jar",
+    "is_prebuilt": false,
+    "jar_path": "lib.java/blimp/client/public/public_headers_java.jar",
+    "java": {
+      "full_classpath": [
+        "lib.java/third_party/android_tools/android_support_annotations_java.jar"
+      ]
+    },
+    "name": "public_headers_java.build_config",
+    "owned_resources_dirs": [],
+    "owned_resources_zips": [],
+    "path": "gen/blimp/client/public/public_headers_java.build_config",
+    "requires_android": true,
+    "supports_android": true,
+    "type": "java_library"
+  },
+  "gradle": {
+    "bundled_srcjars": [
+      "gen/blimp/client/public/public_headers_java_enums_srcjar.srcjar"
+    ],
+    "dependent_android_projects": [],
+    "dependent_java_projects": [],
+    "dependent_prebuilt_jars": [
+      "lib.java/third_party/android_tools/android_support_annotations_java.jar"
+    ],
+    "java_sources_file": "gen/blimp/client/public/public_headers_java.sources"
+  },
+  "javac": {
+    "classpath": [
+      "lib.java/third_party/android_tools/android_support_annotations_java.jar"
+    ],
+    "interface_classpath": [
+      "lib.java/third_party/android_tools/android_support_annotations_java.interface.jar"
+    ],
+    "resource_packages": [],
+    "srcjars": []
+  }
+}

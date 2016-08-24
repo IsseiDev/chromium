@@ -1,0 +1,86 @@
+{
+  "deps_info": {
+    "deps_configs": [
+      "gen/components/dom_distiller/android/dom_distiller_core_java.build_config",
+      "gen/base/base_java.build_config",
+      "gen/content/public/android/content_java.build_config"
+    ],
+    "dex_path": "gen/components/dom_distiller/android/dom_distiller_content_java.dex.jar",
+    "is_prebuilt": false,
+    "jar_path": "lib.java/components/dom_distiller/android/dom_distiller_content_java.jar",
+    "java": {
+      "full_classpath": [
+        "lib.java/third_party/android_protobuf/protobuf_nano_javalib.jar",
+        "lib.java/third_party/jsr-305/jsr_305_javalib.jar",
+        "lib.java/third_party/android_tools/android_support_multidex_java__jar_1.jar",
+        "lib.java/third_party/gvr-android-sdk/gvr_common_java__jar_1.jar",
+        "lib.java/third_party/android_tools/android_support_annotations_java.jar",
+        "lib.java/third_party/WebKit/public/blink_headers_java.jar",
+        "lib.java/mojo/public/java/system.jar",
+        "lib.java/base/base_java.jar",
+        "lib.java/media/capture/video/android/capture_java.jar",
+        "lib.java/media/midi/midi_java.jar",
+        "lib.java/device/usb/java.jar",
+        "lib.java/device/vr/java.jar",
+        "lib.java/components/location/android/location_java.jar",
+        "lib.java/media/base/android/media_java.jar",
+        "lib.java/media/capture/content/android/screen_capture_java.jar",
+        "lib.java/net/android/net_java.jar",
+        "lib.java/mojo/android/system_java.jar",
+        "lib.java/ui/android/ui_java.jar",
+        "lib.java/ui/accessibility/ui_accessibility_java.jar",
+        "lib.java/device/bluetooth/java.jar",
+        "lib.java/mojo/public/java/bindings.jar",
+        "lib.java/device/gamepad/java.jar",
+        "lib.java/device/nfc/mojo_bindings_java.jar",
+        "lib.java/components/dom_distiller/android/dom_distiller_core_java.jar",
+        "lib.java/device/nfc/android/java.jar",
+        "lib.java/device/battery/mojo_bindings_java.jar",
+        "lib.java/device/power_save_blocker/java.jar",
+        "lib.java/device/vibration/mojo_bindings_java.jar",
+        "lib.java/device/battery/android/battery_monitor_android.jar",
+        "lib.java/device/vibration/android/vibration_manager_android.jar",
+        "lib.java/content/public/android/content_java.jar"
+      ]
+    },
+    "name": "dom_distiller_content_java.build_config",
+    "owned_resources_dirs": [],
+    "owned_resources_zips": [],
+    "path": "gen/components/dom_distiller/android/dom_distiller_content_java.build_config",
+    "requires_android": true,
+    "supports_android": true,
+    "type": "java_library"
+  },
+  "gradle": {
+    "dependent_android_projects": [
+      "gen/components/dom_distiller/android/dom_distiller_core_java.build_config",
+      "gen/base/base_java.build_config",
+      "gen/content/public/android/content_java.build_config"
+    ],
+    "dependent_java_projects": [],
+    "dependent_prebuilt_jars": [],
+    "java_sources_file": "gen/components/dom_distiller/android/dom_distiller_content_java.sources"
+  },
+  "javac": {
+    "classpath": [
+      "lib.java/components/dom_distiller/android/dom_distiller_core_java.jar",
+      "lib.java/base/base_java.jar",
+      "lib.java/content/public/android/content_java.jar"
+    ],
+    "interface_classpath": [
+      "lib.java/components/dom_distiller/android/dom_distiller_core_java.interface.jar",
+      "lib.java/base/base_java.interface.jar",
+      "lib.java/content/public/android/content_java.interface.jar"
+    ],
+    "resource_packages": [
+      "org.chromium.content",
+      "com.google.vr.cardboard",
+      "org.chromium.ui"
+    ],
+    "srcjars": [
+      "gen/content/public/android/content_java_resources.srcjar",
+      "gen/third_party/gvr-android-sdk/gvr_common_java__res.srcjar",
+      "gen/ui/android/ui_java_resources.srcjar"
+    ]
+  }
+}

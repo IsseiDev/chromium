@@ -1,0 +1,90 @@
+{
+  "deps_info": {
+    "deps_configs": [
+      "gen/components/invalidation/impl/proto_java.build_config",
+      "gen/base/base_java.build_config",
+      "gen/components/sync/android/sync_java.build_config",
+      "gen/third_party/android_protobuf/protobuf_nano_javalib.build_config",
+      "gen/third_party/cacheinvalidation/cacheinvalidation_javalib.build_config",
+      "gen/third_party/cacheinvalidation/cacheinvalidation_proto_java.build_config",
+      "gen/third_party/jsr-305/jsr_305_javalib.build_config"
+    ],
+    "dex_path": "gen/components/invalidation/impl/java.dex.jar",
+    "is_prebuilt": false,
+    "jar_path": "lib.java/components/invalidation/impl/java.jar",
+    "java": {
+      "full_classpath": [
+        "lib.java/third_party/jsr-305/jsr_305_javalib.jar",
+        "lib.java/third_party/android_tools/android_support_v4_java__jar_1.jar",
+        "lib.java/third_party/android_tools/android_gcm_java.jar",
+        "lib.java/third_party/android_tools/android_support_multidex_java__jar_1.jar",
+        "lib.java/third_party/android_tools/android_support_v4_java__jar_2.jar",
+        "lib.java/third_party/android_tools/android_support_vector_drawable_java__jar_1.jar",
+        "lib.java/third_party/android_tools/android_support_annotations_java.jar",
+        "lib.java/third_party/android_tools/android_support_v7_appcompat_java_internal__jar_1.jar",
+        "lib.java/third_party/android_protobuf/protobuf_nano_javalib.jar",
+        "lib.java/third_party/cacheinvalidation/cacheinvalidation_proto_java.jar",
+        "lib.java/components/invalidation/impl/proto_java.jar",
+        "lib.java/third_party/android_tools/android_support_v7_mediarouter_java__jar_2.jar",
+        "lib.java/base/base_java.jar",
+        "lib.java/third_party/android_tools/android_support_v7_mediarouter_java__jar_1.jar",
+        "lib.java/net/android/net_java.jar",
+        "lib.java/third_party/android_tools/google_play_services_default_java.jar",
+        "lib.java/third_party/cacheinvalidation/cacheinvalidation_javalib.jar",
+        "lib.java/components/sync/android/sync_java.jar"
+      ]
+    },
+    "name": "java.build_config",
+    "owned_resources_dirs": [],
+    "owned_resources_zips": [],
+    "path": "gen/components/invalidation/impl/java.build_config",
+    "requires_android": true,
+    "supports_android": true,
+    "type": "java_library"
+  },
+  "gradle": {
+    "dependent_android_projects": [
+      "gen/components/invalidation/impl/proto_java.build_config",
+      "gen/base/base_java.build_config",
+      "gen/components/sync/android/sync_java.build_config",
+      "gen/third_party/android_protobuf/protobuf_nano_javalib.build_config",
+      "gen/third_party/cacheinvalidation/cacheinvalidation_javalib.build_config",
+      "gen/third_party/cacheinvalidation/cacheinvalidation_proto_java.build_config"
+    ],
+    "dependent_java_projects": [
+      "gen/third_party/jsr-305/jsr_305_javalib.build_config"
+    ],
+    "dependent_prebuilt_jars": [],
+    "java_sources_file": "gen/components/invalidation/impl/java.sources"
+  },
+  "javac": {
+    "classpath": [
+      "lib.java/components/invalidation/impl/proto_java.jar",
+      "lib.java/base/base_java.jar",
+      "lib.java/components/sync/android/sync_java.jar",
+      "lib.java/third_party/android_protobuf/protobuf_nano_javalib.jar",
+      "lib.java/third_party/cacheinvalidation/cacheinvalidation_javalib.jar",
+      "lib.java/third_party/cacheinvalidation/cacheinvalidation_proto_java.jar",
+      "lib.java/third_party/jsr-305/jsr_305_javalib.jar"
+    ],
+    "interface_classpath": [
+      "lib.java/components/invalidation/impl/proto_java.interface.jar",
+      "lib.java/base/base_java.interface.jar",
+      "lib.java/components/sync/android/sync_java.interface.jar",
+      "lib.java/third_party/android_protobuf/protobuf_nano_javalib.interface.jar",
+      "lib.java/third_party/cacheinvalidation/cacheinvalidation_javalib.interface.jar",
+      "lib.java/third_party/cacheinvalidation/cacheinvalidation_proto_java.interface.jar",
+      "lib.java/third_party/jsr-305/jsr_305_javalib.interface.jar"
+    ],
+    "resource_packages": [
+      "android.support.v7.mediarouter",
+      "android.support.v7.appcompat",
+      "com.google.android.gms"
+    ],
+    "srcjars": [
+      "gen/third_party/android_tools/android_support_v7_mediarouter_java__res.srcjar",
+      "gen/third_party/android_tools/android_support_v7_appcompat_java_internal__res.srcjar",
+      "gen/third_party/android_tools/google_play_services_default_resources.srcjar"
+    ]
+  }
+}

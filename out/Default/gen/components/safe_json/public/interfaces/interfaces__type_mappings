@@ -1,0 +1,16 @@
+{
+  "c++": {
+    "safe_json.mojom.ListValue": {
+      "typename": "base::ListValue", 
+      "traits_headers": [
+        "ipc/ipc_message_utils.h"
+      ], 
+      "copyable_pass_by_value": false, 
+      "move_only": false, 
+      "nullable_is_same_type": false, 
+      "public_headers": [
+        "base/values.h"
+      ]
+    }
+  }
+}

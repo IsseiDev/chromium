@@ -1,0 +1,16 @@
+{
+  "deps_info": {
+    "deps_configs": [],
+    "name": "chrome_public_apk_template_resources.build_config",
+    "path": "gen/chrome/android/chrome_public_apk_template_resources.build_config",
+    "resources_dirs": [],
+    "resources_zip": "gen/chrome/android/chrome_public_apk_template_resources.resources.zip",
+    "type": "android_resources"
+  },
+  "gradle": {},
+  "resources": {
+    "dependency_zips": [],
+    "extra_package_names": [],
+    "extra_r_text_files": []
+  }
+}

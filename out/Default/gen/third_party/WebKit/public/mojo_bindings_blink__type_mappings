@@ -1,0 +1,52 @@
+{
+  "c++": {
+    "cc.mojom.SurfaceId": {
+      "typename": "cc::SurfaceId", 
+      "traits_headers": [
+        "cc/ipc/surface_id_struct_traits.h"
+      ], 
+      "copyable_pass_by_value": false, 
+      "move_only": false, 
+      "nullable_is_same_type": false, 
+      "public_headers": [
+        "cc/surfaces/surface_id.h"
+      ]
+    }, 
+    "url.mojom.Origin": {
+      "typename": "RefPtr<::blink::SecurityOrigin>", 
+      "traits_headers": [
+        "third_party/WebKit/Source/platform/mojo/SecurityOriginStructTraits.h"
+      ], 
+      "copyable_pass_by_value": false, 
+      "move_only": false, 
+      "nullable_is_same_type": false, 
+      "public_headers": [
+        "third_party/WebKit/Source/platform/weborigin/SecurityOrigin.h"
+      ]
+    }, 
+    "url.mojom.Url": {
+      "typename": "::blink::KURL", 
+      "traits_headers": [
+        "third_party/WebKit/Source/platform/mojo/KURLStructTraits.h"
+      ], 
+      "copyable_pass_by_value": false, 
+      "move_only": false, 
+      "nullable_is_same_type": false, 
+      "public_headers": [
+        "third_party/WebKit/Source/platform/weborigin/KURL.h"
+      ]
+    }, 
+    "cc.mojom.SurfaceSequence": {
+      "typename": "cc::SurfaceSequence", 
+      "traits_headers": [
+        "cc/ipc/surface_sequence_struct_traits.h"
+      ], 
+      "copyable_pass_by_value": false, 
+      "move_only": false, 
+      "nullable_is_same_type": false, 
+      "public_headers": [
+        "cc/surfaces/surface_sequence.h"
+      ]
+    }
+  }
+}

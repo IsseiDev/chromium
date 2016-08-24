@@ -1,0 +1,21 @@
+{
+  "deps_info": {
+    "deps_configs": [],
+    "name": "google_play_services_default_resources.build_config",
+    "package_name": "com.google.android.gms",
+    "path": "gen/third_party/android_tools/google_play_services_default_resources.build_config",
+    "r_text": "gen/third_party/android_tools/google_play_services_default_resources_R.txt",
+    "resources_dirs": [
+      "../../third_party/android_tools/sdk/extras/google/google_play_services/libproject/google-play-services_lib/res"
+    ],
+    "resources_zip": "gen/third_party/android_tools/google_play_services_default_resources.resources.zip",
+    "srcjar": "gen/third_party/android_tools/google_play_services_default_resources.srcjar",
+    "type": "android_resources"
+  },
+  "gradle": {},
+  "resources": {
+    "dependency_zips": [],
+    "extra_package_names": [],
+    "extra_r_text_files": []
+  }
+}

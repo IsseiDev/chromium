@@ -1,0 +1,1 @@
+gen/chrome/password_manager_internals_resources_stamp.d.stamp: ./../../chrome/browser/resources/password_manager_internals/password_manager_internals.css ./../../chrome/browser/resources/password_manager_internals/password_manager_internals.html ./../../chrome/browser/resources/password_manager_internals/password_manager_internals.js ./../../tools/gritsettings/resource_ids

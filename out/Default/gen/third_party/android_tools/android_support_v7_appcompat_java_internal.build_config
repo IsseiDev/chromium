@@ -1,0 +1,12 @@
+{
+  "deps_info": {
+    "deps_configs": [
+      "gen/third_party/android_tools/android_support_v7_appcompat_java_internal__res.build_config",
+      "gen/third_party/android_tools/android_support_v7_appcompat_java_internal__jar_1.build_config"
+    ],
+    "name": "android_support_v7_appcompat_java_internal.build_config",
+    "path": "gen/third_party/android_tools/android_support_v7_appcompat_java_internal.build_config",
+    "type": "group"
+  },
+  "gradle": {}
+}

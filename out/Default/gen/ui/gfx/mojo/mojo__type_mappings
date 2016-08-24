@@ -1,0 +1,254 @@
+{
+  "c++": {
+    "gfx.mojom.Transform": {
+      "typename": "gfx::Transform", 
+      "traits_headers": [
+        "ui/gfx/mojo/transform_struct_traits.h"
+      ], 
+      "copyable_pass_by_value": false, 
+      "move_only": false, 
+      "nullable_is_same_type": false, 
+      "public_headers": [
+        "ui/gfx/transform.h"
+      ]
+    }, 
+    "gfx.mojom.InsetsF": {
+      "typename": "gfx::InsetsF", 
+      "traits_headers": [
+        "ui/gfx/geometry/mojo/geometry_struct_traits.h"
+      ], 
+      "copyable_pass_by_value": false, 
+      "move_only": false, 
+      "nullable_is_same_type": false, 
+      "public_headers": [
+        "ui/gfx/geometry/point.h", 
+        "ui/gfx/geometry/point_f.h", 
+        "ui/gfx/geometry/size.h", 
+        "ui/gfx/geometry/rect.h", 
+        "ui/gfx/geometry/rect_f.h", 
+        "ui/gfx/geometry/insets.h", 
+        "ui/gfx/geometry/vector2d.h", 
+        "ui/gfx/geometry/vector2d_f.h"
+      ]
+    }, 
+    "gfx.mojom.Size": {
+      "typename": "gfx::Size", 
+      "traits_headers": [
+        "ui/gfx/geometry/mojo/geometry_struct_traits.h"
+      ], 
+      "copyable_pass_by_value": false, 
+      "move_only": false, 
+      "nullable_is_same_type": false, 
+      "public_headers": [
+        "ui/gfx/geometry/point.h", 
+        "ui/gfx/geometry/point_f.h", 
+        "ui/gfx/geometry/size.h", 
+        "ui/gfx/geometry/rect.h", 
+        "ui/gfx/geometry/rect_f.h", 
+        "ui/gfx/geometry/insets.h", 
+        "ui/gfx/geometry/vector2d.h", 
+        "ui/gfx/geometry/vector2d_f.h"
+      ]
+    }, 
+    "gfx.mojom.AcceleratedWidget": {
+      "typename": "gfx::AcceleratedWidget", 
+      "traits_headers": [
+        "ui/gfx/mojo/accelerated_widget_struct_traits.h"
+      ], 
+      "copyable_pass_by_value": false, 
+      "move_only": false, 
+      "nullable_is_same_type": false, 
+      "public_headers": [
+        "ui/gfx/native_widget_types.h"
+      ]
+    }, 
+    "gfx.mojom.Vector2dF": {
+      "typename": "gfx::Vector2dF", 
+      "traits_headers": [
+        "ui/gfx/geometry/mojo/geometry_struct_traits.h"
+      ], 
+      "copyable_pass_by_value": false, 
+      "move_only": false, 
+      "nullable_is_same_type": false, 
+      "public_headers": [
+        "ui/gfx/geometry/point.h", 
+        "ui/gfx/geometry/point_f.h", 
+        "ui/gfx/geometry/size.h", 
+        "ui/gfx/geometry/rect.h", 
+        "ui/gfx/geometry/rect_f.h", 
+        "ui/gfx/geometry/insets.h", 
+        "ui/gfx/geometry/vector2d.h", 
+        "ui/gfx/geometry/vector2d_f.h"
+      ]
+    }, 
+    "gfx.mojom.BufferFormat": {
+      "typename": "gfx::BufferFormat", 
+      "traits_headers": [
+        "ui/gfx/mojo/buffer_types_enum_traits.h"
+      ], 
+      "copyable_pass_by_value": false, 
+      "move_only": false, 
+      "nullable_is_same_type": false, 
+      "public_headers": [
+        "ui/gfx/buffer_types.h"
+      ]
+    }, 
+    "gfx.mojom.PointF": {
+      "typename": "gfx::PointF", 
+      "traits_headers": [
+        "ui/gfx/geometry/mojo/geometry_struct_traits.h"
+      ], 
+      "copyable_pass_by_value": false, 
+      "move_only": false, 
+      "nullable_is_same_type": false, 
+      "public_headers": [
+        "ui/gfx/geometry/point.h", 
+        "ui/gfx/geometry/point_f.h", 
+        "ui/gfx/geometry/size.h", 
+        "ui/gfx/geometry/rect.h", 
+        "ui/gfx/geometry/rect_f.h", 
+        "ui/gfx/geometry/insets.h", 
+        "ui/gfx/geometry/vector2d.h", 
+        "ui/gfx/geometry/vector2d_f.h"
+      ]
+    }, 
+    "gfx.mojom.SelectionBound": {
+      "typename": "gfx::SelectionBound", 
+      "traits_headers": [
+        "ui/gfx/mojo/selection_bound_struct_traits.h"
+      ], 
+      "copyable_pass_by_value": false, 
+      "move_only": false, 
+      "nullable_is_same_type": false, 
+      "public_headers": [
+        "ui/gfx/selection_bound.h"
+      ]
+    }, 
+    "gfx.mojom.RectF": {
+      "typename": "gfx::RectF", 
+      "traits_headers": [
+        "ui/gfx/geometry/mojo/geometry_struct_traits.h"
+      ], 
+      "copyable_pass_by_value": false, 
+      "move_only": false, 
+      "nullable_is_same_type": false, 
+      "public_headers": [
+        "ui/gfx/geometry/point.h", 
+        "ui/gfx/geometry/point_f.h", 
+        "ui/gfx/geometry/size.h", 
+        "ui/gfx/geometry/rect.h", 
+        "ui/gfx/geometry/rect_f.h", 
+        "ui/gfx/geometry/insets.h", 
+        "ui/gfx/geometry/vector2d.h", 
+        "ui/gfx/geometry/vector2d_f.h"
+      ]
+    }, 
+    "gfx.mojom.Vector2d": {
+      "typename": "gfx::Vector2d", 
+      "traits_headers": [
+        "ui/gfx/geometry/mojo/geometry_struct_traits.h"
+      ], 
+      "copyable_pass_by_value": false, 
+      "move_only": false, 
+      "nullable_is_same_type": false, 
+      "public_headers": [
+        "ui/gfx/geometry/point.h", 
+        "ui/gfx/geometry/point_f.h", 
+        "ui/gfx/geometry/size.h", 
+        "ui/gfx/geometry/rect.h", 
+        "ui/gfx/geometry/rect_f.h", 
+        "ui/gfx/geometry/insets.h", 
+        "ui/gfx/geometry/vector2d.h", 
+        "ui/gfx/geometry/vector2d_f.h"
+      ]
+    }, 
+    "gfx.mojom.BufferUsage": {
+      "typename": "gfx::BufferUsage", 
+      "traits_headers": [
+        "ui/gfx/mojo/buffer_types_enum_traits.h"
+      ], 
+      "copyable_pass_by_value": false, 
+      "move_only": false, 
+      "nullable_is_same_type": false, 
+      "public_headers": [
+        "ui/gfx/buffer_types.h"
+      ]
+    }, 
+    "gfx.mojom.Insets": {
+      "typename": "gfx::Insets", 
+      "traits_headers": [
+        "ui/gfx/geometry/mojo/geometry_struct_traits.h"
+      ], 
+      "copyable_pass_by_value": false, 
+      "move_only": false, 
+      "nullable_is_same_type": false, 
+      "public_headers": [
+        "ui/gfx/geometry/point.h", 
+        "ui/gfx/geometry/point_f.h", 
+        "ui/gfx/geometry/size.h", 
+        "ui/gfx/geometry/rect.h", 
+        "ui/gfx/geometry/rect_f.h", 
+        "ui/gfx/geometry/insets.h", 
+        "ui/gfx/geometry/vector2d.h", 
+        "ui/gfx/geometry/vector2d_f.h"
+      ]
+    }, 
+    "gfx.mojom.SizeF": {
+      "typename": "gfx::SizeF", 
+      "traits_headers": [
+        "ui/gfx/geometry/mojo/geometry_struct_traits.h"
+      ], 
+      "copyable_pass_by_value": false, 
+      "move_only": false, 
+      "nullable_is_same_type": false, 
+      "public_headers": [
+        "ui/gfx/geometry/point.h", 
+        "ui/gfx/geometry/point_f.h", 
+        "ui/gfx/geometry/size.h", 
+        "ui/gfx/geometry/rect.h", 
+        "ui/gfx/geometry/rect_f.h", 
+        "ui/gfx/geometry/insets.h", 
+        "ui/gfx/geometry/vector2d.h", 
+        "ui/gfx/geometry/vector2d_f.h"
+      ]
+    }, 
+    "gfx.mojom.Point": {
+      "typename": "gfx::Point", 
+      "traits_headers": [
+        "ui/gfx/geometry/mojo/geometry_struct_traits.h"
+      ], 
+      "copyable_pass_by_value": false, 
+      "move_only": false, 
+      "nullable_is_same_type": false, 
+      "public_headers": [
+        "ui/gfx/geometry/point.h", 
+        "ui/gfx/geometry/point_f.h", 
+        "ui/gfx/geometry/size.h", 
+        "ui/gfx/geometry/rect.h", 
+        "ui/gfx/geometry/rect_f.h", 
+        "ui/gfx/geometry/insets.h", 
+        "ui/gfx/geometry/vector2d.h", 
+        "ui/gfx/geometry/vector2d_f.h"
+      ]
+    }, 
+    "gfx.mojom.Rect": {
+      "typename": "gfx::Rect", 
+      "traits_headers": [
+        "ui/gfx/geometry/mojo/geometry_struct_traits.h"
+      ], 
+      "copyable_pass_by_value": false, 
+      "move_only": false, 
+      "nullable_is_same_type": false, 
+      "public_headers": [
+        "ui/gfx/geometry/point.h", 
+        "ui/gfx/geometry/point_f.h", 
+        "ui/gfx/geometry/size.h", 
+        "ui/gfx/geometry/rect.h", 
+        "ui/gfx/geometry/rect_f.h", 
+        "ui/gfx/geometry/insets.h", 
+        "ui/gfx/geometry/vector2d.h", 
+        "ui/gfx/geometry/vector2d_f.h"
+      ]
+    }
+  }
+}

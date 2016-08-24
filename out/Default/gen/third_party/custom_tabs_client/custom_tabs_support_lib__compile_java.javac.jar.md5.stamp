@@ -1,0 +1,178 @@
+{
+  "input-strings": [
+    "javac", 
+    "-g", 
+    "-encoding", 
+    "UTF-8", 
+    "-classpath", 
+    "lib.java/third_party/android_tools/android_support_annotations_java.interface.jar:lib.java/third_party/android_tools/android_support_v4_java__jar_1.interface.jar:lib.java/third_party/android_tools/android_support_v4_java__jar_2.interface.jar", 
+    "-sourcepath", 
+    "", 
+    "-bootclasspath", 
+    "lib.java/android.interface.jar", 
+    "-source", 
+    "1.7", 
+    "-target", 
+    "1.7", 
+    "-Xlint:unchecked", 
+    "-Xlint:deprecation"
+  ], 
+  "files-md5": "ee338732f6c0a6fb28daf45f2c94c621", 
+  "input-files": [
+    {
+      "path": "lib.java/android.interface.jar", 
+      "tag": "5fa862de0d5afd817ca1133be562b120"
+    }, 
+    {
+      "path": "lib.java/third_party/android_tools/android_support_annotations_java.interface.jar", 
+      "tag": "a0e4aeeddadb4fc8a99b3c5c6124bec9"
+    }, 
+    {
+      "path": "lib.java/third_party/android_tools/android_support_v4_java__jar_1.interface.jar", 
+      "tag": "71996b927e30b3070c40a68598f2430d"
+    }, 
+    {
+      "path": "lib.java/third_party/android_tools/android_support_v4_java__jar_2.interface.jar", 
+      "tag": "d43588be0140bca4b01dff3456197273"
+    }, 
+    {
+      "path": "gen/third_party/custom_tabs_client/chrome_custom_tabs_service_aidl.srcjar", 
+      "tag": "d86f2f872f6b21fc95aa2ef6af59e767", 
+      "entries": [
+        {
+          "path": "android/support/customtabs/ICustomTabsCallback.java", 
+          "tag": 2664636535
+        }, 
+        {
+          "path": "android/support/customtabs/ICustomTabsService.java", 
+          "tag": 1858657284
+        }
+      ]
+    }, 
+    {
+      "path": "../../third_party/custom_tabs_client/src/customtabs/src/android/support/customtabs/CustomTabsCallback.java", 
+      "tag": "2213c9cffcbf014f003509a8c4ef0a62"
+    }, 
+    {
+      "path": "../../third_party/custom_tabs_client/src/customtabs/src/android/support/customtabs/CustomTabsClient.java", 
+      "tag": "6aafc4ef6ae34d7834bb4126deaea978"
+    }, 
+    {
+      "path": "../../third_party/custom_tabs_client/src/customtabs/src/android/support/customtabs/CustomTabsIntent.java", 
+      "tag": "aa700b118e59c096b8451bfc2b4774bb"
+    }, 
+    {
+      "path": "../../third_party/custom_tabs_client/src/customtabs/src/android/support/customtabs/CustomTabsService.java", 
+      "tag": "9209ed487a682cb02d96650ab99ef056"
+    }, 
+    {
+      "path": "../../third_party/custom_tabs_client/src/customtabs/src/android/support/customtabs/CustomTabsServiceConnection.java", 
+      "tag": "413c0175ccbe2d39ac50ef98ba47de46"
+    }, 
+    {
+      "path": "../../third_party/custom_tabs_client/src/customtabs/src/android/support/customtabs/CustomTabsSession.java", 
+      "tag": "49ff943348ead07d131c0349b803d527"
+    }, 
+    {
+      "path": "../../third_party/custom_tabs_client/src/customtabs/src/android/support/customtabs/CustomTabsSessionToken.java", 
+      "tag": "1ae5b056113ec660ac199e127b3a6936"
+    }, 
+    {
+      "path": "../../build/android/gyp/jar.py", 
+      "tag": "e852388bb0071020ffd36a3621c1b7e9"
+    }, 
+    {
+      "path": "../../build/android/gyp/javac.py", 
+      "tag": "7255fc6363fc47e605a4c65bb6ec9ec5"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "92ad5273ce9088c21a3c300ba323de11"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "62bdbbcfa67e889db3c3e4e870726598"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "ee98faa18e9846f3020f06851f55fac6"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "a5ae0b9a12e459caee036ba2b1d002ea"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "ceb0e94d90c2c33ad7a18790771736f5"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "6e2869f191d6ab4f90b87d3cf4e726dc"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "bca8eaac47a82421752826d8c7c0a66e"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "2c2913af79ec1be5dbd4b597f471e339"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }, 
+    {
+      "path": "../../third_party/colorama/src/colorama/__init__.py", 
+      "tag": "de647b90a4b99c279f3e4e358ea39b3e"
+    }, 
+    {
+      "path": "../../third_party/colorama/src/colorama/ansi.py", 
+      "tag": "3ad189643bf1b70eb5be73153569c26c"
+    }, 
+    {
+      "path": "../../third_party/colorama/src/colorama/ansitowin32.py", 
+      "tag": "9b39fc8f8d1af5b00161ed93f037176b"
+    }, 
+    {
+      "path": "../../third_party/colorama/src/colorama/initialise.py", 
+      "tag": "91141f9b74377895dae6f33b6de5cca8"
+    }, 
+    {
+      "path": "../../third_party/colorama/src/colorama/win32.py", 
+      "tag": "e6ef5597c899deefd23e628b209763dd"
+    }, 
+    {
+      "path": "../../third_party/colorama/src/colorama/winterm.py", 
+      "tag": "9d0c650cd287ccf58d29894feec2178f"
+    }
+  ], 
+  "strings-md5": "3cbcbc7c2a3dc8439473d18e6881c2af"
+}

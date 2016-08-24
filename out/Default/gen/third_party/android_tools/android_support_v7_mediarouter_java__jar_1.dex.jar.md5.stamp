@@ -1,0 +1,176 @@
+{
+  "input-strings": [
+    "../../third_party/android_tools/sdk/build-tools/23.0.1/dx", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "gen/third_party/android_tools/android_support_v7_mediarouter_java__jar_1.dex.jar"
+  ], 
+  "files-md5": "3f2ca2bdd66fe1a549f9cd85564a148b", 
+  "input-files": [
+    {
+      "path": "lib.java/third_party/android_tools/android_support_v7_mediarouter_java__jar_1.jar", 
+      "tag": "7185710ca2c0f1a32effa44538ba4d4b", 
+      "entries": [
+        {
+          "path": "android/support/v7/media/MediaRouterJellybean$RouteGroup.class", 
+          "tag": 820444439
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybean$UserRouteInfo.class", 
+          "tag": 2771102488
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybean$VolumeCallback.class", 
+          "tag": 3295950717
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybean$RouteCategory.class", 
+          "tag": 1222486877
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybean$SelectRouteWorkaround.class", 
+          "tag": 1031194753
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybean$RouteInfo.class", 
+          "tag": 1375817929
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybean$Callback.class", 
+          "tag": 2518599288
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybean.class", 
+          "tag": 3819121955
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybean$GetDefaultRouteWorkaround.class", 
+          "tag": 1041868532
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybean$VolumeCallbackProxy.class", 
+          "tag": 1546826183
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybean$CallbackProxy.class", 
+          "tag": 3920584116
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybeanMr1$IsConnectingWorkaround.class", 
+          "tag": 3553988676
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybeanMr1$Callback.class", 
+          "tag": 2726650796
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybeanMr1$RouteInfo.class", 
+          "tag": 3715882925
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybeanMr1$CallbackProxy.class", 
+          "tag": 3279271590
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybeanMr1.class", 
+          "tag": 2600732671
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybeanMr1$ActiveScanWorkaround.class", 
+          "tag": 198087242
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybeanMr2$UserRouteInfo.class", 
+          "tag": 499122084
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybeanMr2$RouteInfo.class", 
+          "tag": 1173467343
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterJellybeanMr2.class", 
+          "tag": 3269400597
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterApi24.class", 
+          "tag": 3539245035
+        }, 
+        {
+          "path": "android/support/v7/media/MediaRouterApi24$RouteInfo.class", 
+          "tag": 3391487187
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/dex.py", 
+      "tag": "f8d244cadb9dfce772ccee702d38d5e5"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "92ad5273ce9088c21a3c300ba323de11"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "62bdbbcfa67e889db3c3e4e870726598"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "ee98faa18e9846f3020f06851f55fac6"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "a5ae0b9a12e459caee036ba2b1d002ea"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "ceb0e94d90c2c33ad7a18790771736f5"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "6e2869f191d6ab4f90b87d3cf4e726dc"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "bca8eaac47a82421752826d8c7c0a66e"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "2c2913af79ec1be5dbd4b597f471e339"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "70a5c216f2cc95156504c644311b99b8"
+}

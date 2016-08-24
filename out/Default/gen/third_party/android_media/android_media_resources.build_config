@@ -1,0 +1,27 @@
+{
+  "deps_info": {
+    "deps_configs": [
+      "gen/third_party/android_tools/android_support_v7_appcompat_java_internal__res.build_config",
+      "gen/third_party/android_tools/android_support_v7_mediarouter_java__res.build_config"
+    ],
+    "name": "android_media_resources.build_config",
+    "package_name": "org.chromium.third_party.android.media",
+    "path": "gen/third_party/android_media/android_media_resources.build_config",
+    "r_text": "gen/third_party/android_media/android_media_resources_R.txt",
+    "resources_dirs": [
+      "../../third_party/android_media/java/res"
+    ],
+    "resources_zip": "gen/third_party/android_media/android_media_resources.resources.zip",
+    "srcjar": "gen/third_party/android_media/android_media_resources.srcjar",
+    "type": "android_resources"
+  },
+  "gradle": {},
+  "resources": {
+    "dependency_zips": [
+      "gen/third_party/android_tools/android_support_v7_mediarouter_java__res.resources.zip",
+      "gen/third_party/android_tools/android_support_v7_appcompat_java_internal__res.resources.zip"
+    ],
+    "extra_package_names": [],
+    "extra_r_text_files": []
+  }
+}
